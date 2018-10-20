@@ -1,0 +1,1448 @@
+{
+    "commit": "9dcf53ec96d1408dbda79e7865e04e3284438d9d",
+    "pagesAndArtboards": {
+        "2A3FB4F3-8E4C-4DDF-AB2B-EEB534A09581": {
+            "name": "Colors",
+            "artboards": {
+                "0990A588-2C83-48AC-AC65-A9EFAF5DA782": {
+                    "name": "colors/cyan"
+                },
+                "FB0FA7A5-621A-45DF-9C58-0216547AA07E": {
+                    "name": "colors/info"
+                },
+                "0D44D832-8EBE-482F-A398-5F3CFB40572D": {
+                    "name": "colors/turquoise"
+                },
+                "73B43BE1-8672-47BB-9F7A-0BCEC9753469": {
+                    "name": "colors/danger"
+                },
+                "394AD127-C035-4498-88E6-59A4EE22F431": {
+                    "name": "colors/light"
+                },
+                "2BE1F5AB-54AA-49FB-98E3-502E1E66FCE0": {
+                    "name": "colors/grey"
+                },
+                "4837974C-A23D-4C12-894E-E15760DCD8BA": {
+                    "name": "colors/grey-darker"
+                },
+                "612BE545-4780-448B-9E1F-44ACA09740AD": {
+                    "name": "colors/yellow"
+                },
+                "9A818E71-05DC-4A5D-9029-011A0A2687A8": {
+                    "name": "colors/success"
+                },
+                "5D31003F-3269-4F03-9C7E-DE39EE34CE02": {
+                    "name": "colors/white-bis"
+                },
+                "4E0C012A-2634-49DD-BF7D-4FF1C5174E35": {
+                    "name": "colors/white-ter"
+                },
+                "902CB494-AE3A-4DB6-85DB-4D99347A01ED": {
+                    "name": "colors/grey-light"
+                },
+                "2184D2FA-1543-450C-BCCF-537E63AF8AE7": {
+                    "name": "colors/white"
+                },
+                "DC4C0B84-C685-467F-92FA-B936806F105E": {
+                    "name": "colors/blue"
+                },
+                "2241952C-87E6-478A-BE5F-AC28515F4404": {
+                    "name": "colors/grey-lighter"
+                },
+                "04F13957-EDA3-4139-BECF-71D6CAE9C96C": {
+                    "name": "colors/grey-dark"
+                },
+                "71684202-DD51-4FA8-880D-37A6A6559135": {
+                    "name": "colors/link"
+                },
+                "18176AC1-76A0-49CF-BB04-D040BDD0CD64": {
+                    "name": "colors/orange"
+                },
+                "E85552A2-4D48-4F6B-BB01-3119B74D3C44": {
+                    "name": "colors/dark"
+                },
+                "538E6FBD-8EA8-4D1B-B3AF-C88E33F750BF": {
+                    "name": "colors/black-bis"
+                },
+                "3522806E-1A03-41F7-AF24-8B74FBFBDBC9": {
+                    "name": "colors/warning"
+                },
+                "59E9BA9B-FFE7-4C1D-90E6-EC880A61EA3E": {
+                    "name": "colors/transparent"
+                },
+                "06C26D34-0B38-46F8-A886-B9F01A402CF2": {
+                    "name": "colors/purple"
+                },
+                "BBD29BEF-2258-4F4C-AAFE-99D9D9E219B5": {
+                    "name": "colors/green"
+                },
+                "14DB747C-705A-45EF-9BED-94A91AC5E142": {
+                    "name": "colors/black-ter"
+                },
+                "FEE68A3E-82FE-460D-8B82-DEDE8496D9AD": {
+                    "name": "colors/black"
+                },
+                "4ADB6AC3-EC2B-4867-980A-33FD2EF38833": {
+                    "name": "colors/primary"
+                },
+                "2CA5733A-B8BB-4A9F-B335-E6379AE891AD": {
+                    "name": "colors/red"
+                },
+                "833ABF69-21FF-46F4-B114-42A3B2B34C76": {
+                    "name": "colors/dark-invert"
+                },
+                "C1E05076-9CDB-4240-8175-3C9BF39E3570": {
+                    "name": "colors/light-invert"
+                }
+            }
+        },
+        "A21C2E21-40B3-4733-AD6E-A00BD987AAF7": {
+            "name": "Elements/Tag",
+            "artboards": {
+                "9DAD3E27-F486-4B0B-9B44-6569436882C2": {
+                    "name": "elements/tag/tag-normal-right"
+                },
+                "60EC5570-2C87-4462-B908-A29D4019B8D1": {
+                    "name": "elements/tag/delete/tag-large-has-delete"
+                },
+                "06496834-4BED-408F-9C89-9A912C306A23": {
+                    "name": "elements/tag/delete/tag-normal-has-delete"
+                },
+                "71FDF5DB-C2BE-4510-8C54-CBED18F7F7A0": {
+                    "name": "elements/tag/tag-medium"
+                },
+                "74750FC3-5195-45CF-9C15-A71848FB1C4C": {
+                    "name": "elements/tag/delete/tag-medium-has-delete"
+                },
+                "4A48E35E-6CA6-485D-870C-0F55BB425782": {
+                    "name": "elements/tag/is-rounded/delete/tag-medium-is-delete"
+                },
+                "DF00E608-FC45-4311-9538-C582F2BBF875": {
+                    "name": "elements/tag/is-rounded/delete/tag-normal-has-delete"
+                },
+                "91E0D797-7A09-49F0-91DE-7B049086369A": {
+                    "name": "elements/tag/is-rounded/delete/tag-large-right-is-delete"
+                },
+                "B506E34F-C618-4CB1-943C-F8B1F11A16E3": {
+                    "name": "elements/tag/delete/tag-large-right-is-delete"
+                },
+                "68D6BC94-64EE-4B72-8A3D-54093AFF395F": {
+                    "name": "elements/tag/is-rounded/tag-normal-left"
+                },
+                "A5F408D6-8D93-402E-B18D-A8AF93CC618F": {
+                    "name": "elements/tag/delete/tag-normal-is-delete"
+                },
+                "51B002D6-EFE1-4185-8E69-342130805F7B": {
+                    "name": "elements/tag/tag-normal"
+                },
+                "DB5C3B7F-F7B1-460B-8724-6C681D48A053": {
+                    "name": "elements/tag/delete/tag-medium-is-delete"
+                },
+                "EA2049B6-6FD6-44EB-BBCB-402CDF1C2027": {
+                    "name": "elements/tag/is-rounded/delete/tag-medium-has-delete"
+                },
+                "FF406BF2-CC9F-4834-8B6C-D01394FCF9D8": {
+                    "name": "elements/tag/tag-medium-right"
+                },
+                "27B9E2B1-CB18-450C-A66E-4920A8DA0C64": {
+                    "name": "elements/tag/is-rounded/tag-normal"
+                },
+                "197EF611-9E4E-4480-9B68-B92981F63271": {
+                    "name": "elements/tag/is-rounded/tag-large-right"
+                },
+                "BF255666-7081-43E2-9242-B3AB160B8D2B": {
+                    "name": "elements/tag/tag-large"
+                },
+                "FE049FE8-D7F3-4511-BE83-A15FCDD3EEEC": {
+                    "name": "elements/tag/tag-large-left"
+                },
+                "D415997F-96D2-4BBE-8512-8CAD65518CE4": {
+                    "name": "elements/tag/is-rounded/tag-medium-right"
+                },
+                "D70FEE1C-B9E7-4809-8B14-58EE2967F22E": {
+                    "name": "elements/tag/is-rounded/delete/tag-normal-is-delete"
+                },
+                "3411C1D3-E744-4451-82C3-4683624D9DE7": {
+                    "name": "elements/tag/tag-normal-left"
+                },
+                "CD8E3F60-6D33-44D2-84D1-0CF42B517167": {
+                    "name": "elements/tag/is-rounded/tag-medium-left"
+                },
+                "C6206D6C-1670-491F-92FE-AA5532A454F7": {
+                    "name": "elements/tag/tag-medium-left"
+                },
+                "10278631-3BDD-4AFE-89D8-54D567AFB42D": {
+                    "name": "elements/tag/is-rounded/delete/tag-large-has-delete"
+                },
+                "01858FED-F61B-47B9-8C88-A67582625F1E": {
+                    "name": "elements/tag/is-rounded/tag-large"
+                },
+                "1EA005CC-FEC6-40E4-9755-759A16CEA551": {
+                    "name": "elements/tag/is-rounded/tag-normal-right"
+                },
+                "539C15AF-85D7-40A4-ADED-259F23C6EB92": {
+                    "name": "elements/tag/is-rounded/tag-large-left"
+                },
+                "E15F88B7-FFA2-479E-9BF1-6B7B04D168BE": {
+                    "name": "elements/tag/is-rounded/tag-medium"
+                },
+                "EB3CFBDF-0C35-4781-863E-FD8556E456BC": {
+                    "name": "elements/tag/tag-large-right"
+                }
+            }
+        },
+        "09F75052-300A-4DF6-99D1-A320E8D8BDDA": {
+            "name": "Typography",
+            "artboards": {
+                "AA7A55D8-6A04-44FB-B248-723ECDF7A243": {
+                    "name": "typography/has-text-black/is-size-4 has-text-c"
+                },
+                "5F8F9FE7-8812-4FAD-A7CA-34AE9DE35318": {
+                    "name": "typography/has-text-dark/is-size-7 has-text-r"
+                },
+                "6EA006EA-C935-4EBA-B71E-221459007E01": {
+                    "name": "typography/has-text-success/is-size-7 has-text-r"
+                },
+                "FE0CD01E-01AA-46A7-90C0-B69F41F981A5": {
+                    "name": "typography/has-text-white/is-size-3 has-text-r"
+                },
+                "36F680EA-C9D9-4ECD-9014-0D3F68615EB0": {
+                    "name": "typography/has-text-primary/is-size-6"
+                },
+                "8F87E393-77E1-4026-8DB7-298C0775028B": {
+                    "name": "typography/has-text-white/is-size-4"
+                },
+                "F435A73D-14F5-45ED-9757-852D2DB2ACFA": {
+                    "name": "typography/has-text-light/is-size-7 has-text-c"
+                },
+                "4C0C60AB-247A-486E-BA07-A80CDB8128D0": {
+                    "name": "typography/has-text-warning/is-size-5 has-text-c"
+                },
+                "30266E29-2D0E-4BDA-A1BE-EC284DEB9A3C": {
+                    "name": "typography/has-text-info/is-size-3"
+                },
+                "05CB5ED4-2843-4267-B06F-9150B9AD849F": {
+                    "name": "typography/has-text-primary/is-size-6 has-text-r"
+                },
+                "F470BB4A-55F4-4E16-8E79-10F80D8F7510": {
+                    "name": "typography/has-text-success/is-size-1 has-text-r"
+                },
+                "31125524-7C38-43A9-B20D-2B2D457B9367": {
+                    "name": "typography/has-text-warning/is-size-3"
+                },
+                "43399E31-42C7-4475-B402-0CC0F3C6B29B": {
+                    "name": "typography/has-text-success/is-size-3 has-text-c"
+                },
+                "D25FD1AB-28D9-4983-B921-7BEDF23EC59A": {
+                    "name": "typography/has-text-success/is-size-6"
+                },
+                "F9D5C664-8577-48CB-AFF3-59EB35142FAC": {
+                    "name": "typography/has-text-primary/is-size-6 has-text-c"
+                },
+                "AA64092E-2B52-4962-904D-70B88D2DB8C0": {
+                    "name": "typography/has-text-white/is-size-6 has-text-c"
+                },
+                "B2E99986-33C1-4514-A281-1D6C47433CDB": {
+                    "name": "typography/has-text-white/is-size-6 has-text-r"
+                },
+                "901C93BF-D07E-4B7C-A0B5-1F5FED7EC067": {
+                    "name": "typography/has-text-danger/is-size-4"
+                },
+                "9452E90A-29E7-4D78-9516-61C3239F3046": {
+                    "name": "typography/has-text-light/is-size-4"
+                },
+                "509A60A8-AEF5-4E4A-9710-2A8B543DC8D8": {
+                    "name": "typography/has-text-black/is-size-5 has-text-c"
+                },
+                "68B2A31E-3BB6-4C67-B9DA-ACEBA66BB125": {
+                    "name": "typography/has-text-light/is-size-1 has-text-c"
+                },
+                "90761F9D-0E50-46E2-81A1-7389A2F5F6C6": {
+                    "name": "typography/has-text-black/is-size-4 has-text-r"
+                },
+                "05DEEFF7-56C1-40A8-964F-A4E2081AE2A1": {
+                    "name": "typography/has-text-light/is-size-1 has-text-r"
+                },
+                "A0A0EECA-D49E-4243-AE63-5616AA1157A7": {
+                    "name": "typography/has-text-dark/is-size-6 has-text-c"
+                },
+                "C9706642-3AB2-4E7B-AE34-4B4BBAB4323E": {
+                    "name": "typography/has-text-danger/is-size-3"
+                },
+                "B32ED128-C14C-47DA-A452-2E07C8DBD45F": {
+                    "name": "typography/has-text-success/is-size-5 has-text-r"
+                },
+                "B63BE40C-2027-4121-A773-BDFC8926BC06": {
+                    "name": "typography/has-text-warning/is-size-1 has-text-r"
+                },
+                "408333CC-79BD-414E-97CD-098E87A43F0C": {
+                    "name": "typography/has-text-danger/is-size-2"
+                },
+                "4F268F41-ABCE-4E8F-8928-127C943AA712": {
+                    "name": "typography/has-text-dark/is-size-3"
+                },
+                "0BFCBFBF-BE46-49ED-8CB4-89DB2ECF0A35": {
+                    "name": "typography/has-text-white/is-size-5 has-text-r"
+                },
+                "B4CA542E-D3F7-4088-837C-AF21D5328031": {
+                    "name": "typography/has-text-light/is-size-6 has-text-r"
+                },
+                "E6459B4B-91E0-4026-AB9E-27D045D2BE54": {
+                    "name": "typography/has-text-light/is-size-3 has-text-r"
+                },
+                "3468795F-A64B-4356-B116-EEA5A3EC17A2": {
+                    "name": "typography/has-text-info/is-size-1 has-text-r"
+                },
+                "F47A994B-F539-4342-B074-03DB1EBC23E0": {
+                    "name": "typography/has-text-white/is-size-7 has-text-r"
+                },
+                "E37361D7-B8E4-40CD-8C86-DDA50171C90C": {
+                    "name": "typography/has-text-warning/is-size-2 has-text-c"
+                },
+                "31296FE8-896B-453B-AEBF-7A12366C2B86": {
+                    "name": "typography/has-text-primary/is-size-5 has-text-c"
+                },
+                "F7447D7D-259D-4A6F-920E-6CA5034C650F": {
+                    "name": "typography/has-text-info/is-size-5 has-text-r"
+                },
+                "E588155D-7738-48DE-951D-0832C3B38A9C": {
+                    "name": "typography/has-text-primary/is-size-7 has-text-r"
+                },
+                "4C9661E0-85B3-4AA8-AA91-036608C87DB8": {
+                    "name": "typography/has-text-dark/is-size-1"
+                },
+                "D69465EC-68F7-4CE5-B826-AFD26A91E816": {
+                    "name": "typography/has-text-info/is-size-2 has-text-r"
+                },
+                "918C26B2-2EFC-4BFB-B5CA-9762B73B0329": {
+                    "name": "typography/has-text-black/is-size-6 has-text-c"
+                },
+                "143F93DA-82E7-4850-91AF-70619553FE13": {
+                    "name": "typography/has-text-info/is-size-4"
+                },
+                "678B2ACA-6812-4926-873A-CA67C9BD0FE6": {
+                    "name": "typography/has-text-light/is-size-4 has-text-r"
+                },
+                "B8AEC0CE-5CF5-4C46-8E34-B8536A576D4C": {
+                    "name": "typography/has-text-info/is-size-4 has-text-c"
+                },
+                "5DF2F049-4578-4113-BF15-184A87078D81": {
+                    "name": "typography/has-text-info/is-size-1 has-text-c"
+                },
+                "2F343E28-E69D-4FC1-88F0-BDB84A424B31": {
+                    "name": "typography/has-text-info/is-size-7"
+                },
+                "852188A8-B23E-4528-9496-B3D091855E5C": {
+                    "name": "typography/has-text-black/is-size-2 has-text-r"
+                },
+                "6D6AEBFD-CAC1-4D4D-8698-CA7A63BDE5C0": {
+                    "name": "typography/has-text-success/is-size-1 has-text-c"
+                },
+                "859C4D96-AEA5-4454-9C50-02BD0E808ECE": {
+                    "name": "typography/has-text-white/is-size-2"
+                },
+                "324BCEC8-FDE2-4823-B4A7-A5D7E27813E3": {
+                    "name": "typography/has-text-success/is-size-4"
+                },
+                "8C428953-7E22-47F7-9E2F-30BE3ADE6E62": {
+                    "name": "typography/has-text-dark/is-size-1 has-text-r"
+                },
+                "990434A3-9366-4ADB-99C7-13415626B71A": {
+                    "name": "typography/has-text-danger/is-size-6"
+                },
+                "353C578E-BAAB-4A44-84A4-C32F7E53CAF7": {
+                    "name": "typography/has-text-primary/is-size-4"
+                },
+                "26DACB2E-9C63-4F61-9657-0040F76F0ACF": {
+                    "name": "typography/has-text-primary/is-size-2"
+                },
+                "3E690D88-292E-42DF-A5F4-0B8EF47E1444": {
+                    "name": "typography/has-text-primary/is-size-3 has-text-r"
+                },
+                "6D53B10E-13A4-4327-81D8-43B6744600E6": {
+                    "name": "typography/has-text-warning/is-size-7 has-text-c"
+                },
+                "0EA80A48-E9FA-4CD0-8468-538A0163E653": {
+                    "name": "typography/has-text-success/is-size-4 has-text-r"
+                },
+                "5DE3202A-2F5C-400B-A0D1-F9A8BF98861D": {
+                    "name": "typography/has-text-success/is-size-5"
+                },
+                "F2A41E10-9C9C-45AE-B033-7758CF7BC318": {
+                    "name": "typography/has-text-dark/is-size-5 has-text-r"
+                },
+                "C2B57D15-C53A-4B10-BF4A-50A376588CB1": {
+                    "name": "typography/has-text-danger/is-size-7 has-text-r"
+                },
+                "4C8BC701-D91E-42F9-9F10-D3A3239E5363": {
+                    "name": "typography/has-text-primary/is-size-5 has-text-r"
+                },
+                "A038FFA1-D960-42B8-8862-1EA77639E92B": {
+                    "name": "typography/has-text-dark/is-size-3 has-text-c"
+                },
+                "21A0D5E8-C646-4F1A-A90A-F409D516AC55": {
+                    "name": "typography/has-text-info/is-size-5"
+                },
+                "9FED95C7-3822-41AD-B806-D3EC1469EA1A": {
+                    "name": "typography/has-text-black/is-size-5"
+                },
+                "2F438543-1148-4C36-8223-F055740F437E": {
+                    "name": "typography/has-text-success/is-size-2 has-text-r"
+                },
+                "F84E1D48-7205-4CC2-80B3-5130F3B504A3": {
+                    "name": "typography/has-text-info/is-size-7 has-text-c"
+                },
+                "4AA00E11-E661-4837-89DE-5B4A6ED7DFC4": {
+                    "name": "typography/has-text-dark/is-size-5 has-text-c"
+                },
+                "6841CA0D-0110-4972-A679-A190D6E8A101": {
+                    "name": "typography/has-text-warning/is-size-1"
+                },
+                "FAC813E9-7E85-438E-AAF2-AE1E00C88545": {
+                    "name": "typography/has-text-danger/is-size-3 has-text-c"
+                },
+                "A3941BF2-D486-403C-8D46-4D8543C22002": {
+                    "name": "typography/has-text-warning/is-size-7 has-text-r"
+                },
+                "F377CBD4-4E3B-45F6-85C5-C12EEF1D73FA": {
+                    "name": "typography/has-text-dark/is-size-4"
+                },
+                "A77C6151-FA79-4B22-8B6A-316B10EB3E58": {
+                    "name": "typography/has-text-light/is-size-5 has-text-c"
+                },
+                "45ACD636-A525-4237-9D41-593E313B1122": {
+                    "name": "typography/has-text-dark/is-size-7 has-text-c"
+                },
+                "5A1B3D11-E8B7-448A-8EA9-4B681E053FBF": {
+                    "name": "typography/has-text-success/is-size-2"
+                },
+                "8FBFDC79-0482-47BB-BF19-E5B41A9E5AE1": {
+                    "name": "typography/has-text-black/is-size-6"
+                },
+                "110F4BCE-5627-48B4-AA79-5C08A109618E": {
+                    "name": "typography/has-text-white/is-size-5"
+                },
+                "995E4C4E-C272-4A5D-AAD8-C393B3C0D4C3": {
+                    "name": "typography/has-text-primary/is-size-4 has-text-c"
+                },
+                "A0B00110-12A4-4490-91AB-DB0E35020ABB": {
+                    "name": "typography/has-text-white/is-size-3"
+                },
+                "EBD37380-0CB3-4A6B-BF0A-2363B52CCFB9": {
+                    "name": "typography/has-text-black/is-size-1"
+                },
+                "90F9A18C-0325-4AEE-B787-92B6FA3E4F1E": {
+                    "name": "typography/has-text-danger/is-size-6 has-text-c"
+                },
+                "7B9C9957-9A9A-4D74-8087-2FF0DAFB92C1": {
+                    "name": "typography/has-text-info/is-size-6 has-text-r"
+                },
+                "C5C6283F-0975-49CE-957F-46C4FB6444E2": {
+                    "name": "typography/has-text-primary/is-size-5"
+                },
+                "AD257BFC-0FEA-4DEA-AC0F-CB1A05ABFE67": {
+                    "name": "typography/has-text-warning/is-size-4 has-text-c"
+                },
+                "8456A004-F964-406D-97C4-C2512BFEB0ED": {
+                    "name": "typography/has-text-danger/is-size-7 has-text-c"
+                },
+                "3F4D5164-93BF-430E-AF02-DAEAD0C50F34": {
+                    "name": "typography/has-text-danger/is-size-6 has-text-r"
+                },
+                "D69D3DFF-11DA-4286-9B5A-76AA426D0B82": {
+                    "name": "typography/has-text-black/is-size-7 has-text-r"
+                },
+                "9465409A-B972-4F8C-B5EE-B1CD9824BA95": {
+                    "name": "typography/has-text-dark/is-size-2 has-text-c"
+                },
+                "F640C5A9-9AB6-4402-8EBB-827C52468C7A": {
+                    "name": "typography/has-text-black/is-size-7 has-text-c"
+                },
+                "2CE3D376-5759-47CF-BA87-216858F63FB7": {
+                    "name": "typography/has-text-primary/is-size-7 has-text-c"
+                },
+                "7F10A5C1-01B9-4C00-BA8F-95E9C3C77E5A": {
+                    "name": "typography/has-text-black/is-size-4"
+                },
+                "71AD9073-B565-4550-8D42-BDB305CF576A": {
+                    "name": "typography/has-text-white/is-size-7"
+                },
+                "2785C451-0CC4-4FC5-9D74-84084BF6008B": {
+                    "name": "typography/has-text-light/is-size-7 has-text-r"
+                },
+                "C0D497D3-33D3-4238-A085-E4C2781F3BEE": {
+                    "name": "typography/has-text-warning/is-size-2"
+                },
+                "5BB85355-1002-452E-BF96-4407331717A2": {
+                    "name": "typography/has-text-primary/is-size-4 has-text-r"
+                },
+                "CB846661-B274-4CAE-BC5B-4F038FDDD801": {
+                    "name": "typography/has-text-warning/is-size-4 has-text-r"
+                },
+                "7DCDB252-9C55-418B-87EA-849FFA4D82DA": {
+                    "name": "typography/has-text-light/is-size-3 has-text-c"
+                },
+                "1E8170A1-1E42-4DF5-8440-E76C608C2ED0": {
+                    "name": "typography/has-text-warning/is-size-4"
+                },
+                "7D49BF3A-6C45-45E6-B48F-DAAA6A3DCF2A": {
+                    "name": "typography/has-text-warning/is-size-1 has-text-c"
+                },
+                "908F581C-8E7F-4E38-829C-C67B2C163EA6": {
+                    "name": "typography/has-text-white/is-size-2 has-text-c"
+                },
+                "89FE9D91-7B47-44F4-9139-8B497D7AD5FB": {
+                    "name": "typography/has-text-success/is-size-5 has-text-c"
+                },
+                "554745A5-A432-4117-B0FE-5FBAA82C5736": {
+                    "name": "typography/has-text-white/is-size-6"
+                },
+                "3BFA32D2-B171-4A67-A1AC-BD0E77EE2392": {
+                    "name": "typography/has-text-dark/is-size-4 has-text-c"
+                },
+                "1DE07264-4936-44A7-8372-BE3126D8C681": {
+                    "name": "typography/has-text-info/is-size-6"
+                },
+                "D0358D3A-385B-44D7-83F3-CBB50B2E047E": {
+                    "name": "typography/has-text-success/is-size-6 has-text-r"
+                },
+                "8427064F-6CC9-4775-895F-6648D3E0F357": {
+                    "name": "typography/has-text-primary/is-size-3"
+                },
+                "57C8378D-AD15-46AB-9AA9-51FFD8407993": {
+                    "name": "typography/has-text-light/is-size-6 has-text-c"
+                },
+                "79DA42C1-EFAC-49DD-BC41-9B65C9E24C13": {
+                    "name": "typography/has-text-danger/is-size-2 has-text-r"
+                },
+                "97BCEF4C-BA05-43D9-B26A-B08BCAA20848": {
+                    "name": "typography/has-text-info/is-size-2"
+                },
+                "86029F5C-3C37-4331-BBD3-768DD3C0021E": {
+                    "name": "typography/has-text-black/is-size-6 has-text-r"
+                },
+                "758883DA-0D4B-4AF6-A3E5-398B7F5EAF0B": {
+                    "name": "typography/has-text-danger/is-size-5 has-text-r"
+                },
+                "AAB26E4C-37EE-492D-B9F0-11FE9FAC0B95": {
+                    "name": "typography/has-text-primary/is-size-3 has-text-c"
+                },
+                "2E70DE15-4E36-43AE-85F9-F034E1032A2A": {
+                    "name": "typography/has-text-white/is-size-4 has-text-r"
+                },
+                "B0D89781-56AD-4AC0-82D3-EEF71E8093DC": {
+                    "name": "typography/has-text-success/is-size-1"
+                },
+                "7CF9F2BF-A537-4E40-93D6-E6F70D3ED0F5": {
+                    "name": "typography/has-text-info/is-size-1"
+                },
+                "1DB6A82B-C793-4305-8559-19DA1AE1D50A": {
+                    "name": "typography/has-text-primary/is-size-1 has-text-c"
+                },
+                "0EC88477-CD1E-479B-8349-752C3A7D523C": {
+                    "name": "typography/has-text-white/is-size-1"
+                },
+                "C2BD13B5-7F81-4208-87D0-95A0D8454BEB": {
+                    "name": "typography/has-text-primary/is-size-1 has-text-r"
+                },
+                "94419C4C-282A-416F-A3F6-0BB66DF33C19": {
+                    "name": "typography/has-text-light/is-size-4 has-text-c"
+                },
+                "947A4B99-5C80-42EE-9786-FE6B64ECC350": {
+                    "name": "typography/has-text-light/is-size-2 has-text-c"
+                },
+                "F56715AD-5CC2-45D7-808D-E3219C567BD6": {
+                    "name": "typography/has-text-light/is-size-6"
+                },
+                "84A5C2BD-D829-4E3A-B9D1-266221A5974D": {
+                    "name": "typography/has-text-dark/is-size-5"
+                },
+                "58EF4D66-A686-4DE3-8E13-D0F922A8A467": {
+                    "name": "typography/has-text-light/is-size-2"
+                },
+                "7CE22D8D-9783-45C9-B00D-68872F6D3742": {
+                    "name": "typography/has-text-info/is-size-3 has-text-r"
+                },
+                "63F00252-65B8-4BB4-B311-8329685F9E71": {
+                    "name": "typography/has-text-danger/is-size-2 has-text-c"
+                },
+                "C2C82C4D-BED7-490F-B054-84D37A2C1792": {
+                    "name": "typography/has-text-danger/is-size-5 has-text-c"
+                },
+                "4172AC05-7FB4-4CA5-B6D5-8A0D6DF94686": {
+                    "name": "typography/has-text-danger/is-size-1"
+                },
+                "CEDEE2DF-EDA6-4038-98BE-E1843C57A9CA": {
+                    "name": "typography/has-text-black/is-size-1 has-text-c"
+                },
+                "F24DC87A-037F-462B-85EF-DEE6B82D8DBD": {
+                    "name": "typography/has-text-black/is-size-5 has-text-r"
+                },
+                "E24A1B81-308D-462A-9D32-08D9C48610F8": {
+                    "name": "typography/has-text-success/is-size-7 has-text-c"
+                },
+                "A76882B5-2A2D-44F6-BCC2-FE26D1CA78EF": {
+                    "name": "typography/has-text-black/is-size-3 has-text-r"
+                },
+                "4450E364-8B25-4CE6-99BA-C9BC0B3164AE": {
+                    "name": "typography/has-text-white/is-size-1 has-text-r"
+                },
+                "72548F8E-648E-4143-9B70-BE90F7179D30": {
+                    "name": "typography/has-text-info/is-size-5 has-text-c"
+                },
+                "04397BBD-D04E-4015-8607-F5FCA94E38C5": {
+                    "name": "typography/has-text-dark/is-size-1 has-text-c"
+                },
+                "7174862D-93AA-4B84-AB2C-4A711D9CA05D": {
+                    "name": "typography/has-text-white/is-size-2 has-text-r"
+                },
+                "60C511BF-1644-4CAC-8875-1C09D1DC3C21": {
+                    "name": "typography/has-text-info/is-size-4 has-text-r"
+                },
+                "29E45F33-29A3-4083-825E-E63B75377F34": {
+                    "name": "typography/has-text-success/is-size-6 has-text-c"
+                },
+                "261FDC3F-B23D-40D9-BA9D-6226A2AD5218": {
+                    "name": "typography/has-text-light/is-size-5 has-text-r"
+                },
+                "0A9EEB9F-6328-4CA7-B427-22C03BD68EFF": {
+                    "name": "typography/has-text-white/is-size-4 has-text-c"
+                },
+                "562CDA5F-44F1-4FCF-805C-2F6DC3B5FE76": {
+                    "name": "typography/has-text-dark/is-size-7"
+                },
+                "0D44DBE7-935E-401F-BC26-79C9628668DD": {
+                    "name": "typography/has-text-warning/is-size-7"
+                },
+                "F90F2154-B446-4543-8BFB-A2262E589B8E": {
+                    "name": "typography/has-text-warning/is-size-5 has-text-r"
+                },
+                "FC1BAFBF-0CD7-46F8-ADB6-C822BE2715F5": {
+                    "name": "typography/has-text-danger/is-size-5"
+                },
+                "352C932E-377F-4FCA-87B4-D7B42D07B99A": {
+                    "name": "typography/has-text-light/is-size-1"
+                },
+                "042458F9-6DF4-4EF5-A251-EF2EE578DB87": {
+                    "name": "typography/has-text-danger/is-size-4 has-text-r"
+                },
+                "58A56816-171D-41C2-8342-C835724233CA": {
+                    "name": "typography/has-text-warning/is-size-2 has-text-r"
+                },
+                "06874BDA-B1E0-4DF0-AADA-F8E1AE0FAB20": {
+                    "name": "typography/has-text-warning/is-size-3 has-text-r"
+                },
+                "10FAAAFF-AC82-4727-9401-B276FC21C3E5": {
+                    "name": "typography/has-text-info/is-size-7 has-text-r"
+                },
+                "3ECEE5F2-A3CA-4D11-8516-2B44104C845D": {
+                    "name": "typography/has-text-success/is-size-7"
+                },
+                "CE6B87D9-9377-4186-877C-84F3B199D8D8": {
+                    "name": "typography/has-text-dark/is-size-6"
+                },
+                "759CC452-4BD1-44A1-8B3C-4BADA03854BC": {
+                    "name": "typography/has-text-info/is-size-2 has-text-c"
+                },
+                "ABB99E88-BBD2-4DC1-AC2D-FA64546AFA0C": {
+                    "name": "typography/has-text-light/is-size-2 has-text-r"
+                },
+                "423595A2-92BB-44A1-ADF4-794ECDFDE3CA": {
+                    "name": "typography/has-text-primary/is-size-2 has-text-r"
+                },
+                "E9AE72AC-5A93-4EC0-B020-D21B95AA8EAD": {
+                    "name": "typography/has-text-dark/is-size-6 has-text-r"
+                },
+                "61AFF3FF-7C1E-4B1F-8390-43AD4475581E": {
+                    "name": "typography/has-text-info/is-size-3 has-text-c"
+                },
+                "6C1616EA-FEF3-4FE1-8781-CA6C9F392609": {
+                    "name": "typography/has-text-dark/is-size-3 has-text-r"
+                },
+                "EF6CAEAD-F256-4CC9-8F0E-79EDD4067715": {
+                    "name": "typography/has-text-success/is-size-2 has-text-c"
+                },
+                "2A79E82A-0398-4A8F-BB3F-0A00046A2B46": {
+                    "name": "typography/has-text-dark/is-size-2 has-text-r"
+                },
+                "96263477-20E4-4C92-9334-C790758B5B67": {
+                    "name": "typography/has-text-light/is-size-3"
+                },
+                "3025AFA0-BC9A-49E5-9841-8BE34CC9F4E2": {
+                    "name": "typography/has-text-info/is-size-6 has-text-c"
+                },
+                "9F64ADF6-0E8E-4705-A67D-076E124C346E": {
+                    "name": "typography/has-text-black/is-size-2"
+                },
+                "7CB6078F-2B9D-40C2-B5CF-1E7D97C33A92": {
+                    "name": "typography/has-text-light/is-size-5"
+                },
+                "F0804E07-66EC-4E8F-B86F-8A56F7D545DC": {
+                    "name": "typography/has-text-primary/is-size-1"
+                },
+                "1E2AD42B-7A09-445D-A657-99121330B0E5": {
+                    "name": "typography/has-text-success/is-size-3"
+                },
+                "FA0782E0-666E-4AD2-916A-A77C3B54E813": {
+                    "name": "typography/has-text-light/is-size-7"
+                },
+                "242437BF-131E-49DE-8E27-AFEFE93551AF": {
+                    "name": "typography/has-text-black/is-size-7"
+                },
+                "B669A204-1600-48EF-B150-42C446B88748": {
+                    "name": "typography/has-text-primary/is-size-7"
+                },
+                "9A8D7722-3096-4E87-A04B-0B57C3F71F03": {
+                    "name": "typography/has-text-warning/is-size-6 has-text-r"
+                },
+                "641BBE1C-2EF4-4EC3-AD78-7C67F0DDD8EE": {
+                    "name": "typography/has-text-warning/is-size-6 has-text-c"
+                },
+                "919381F3-6741-46AF-B412-9D942DF217DE": {
+                    "name": "typography/has-text-white/is-size-7 has-text-c"
+                },
+                "C891A431-D286-440E-9178-D7F68264F475": {
+                    "name": "typography/has-text-black/is-size-1 has-text-r"
+                },
+                "0054ADF2-17EF-4D4F-B024-BF5B3AB174C8": {
+                    "name": "typography/has-text-warning/is-size-6"
+                },
+                "209D7E10-DE7A-4867-82E1-08EA0DB1543F": {
+                    "name": "typography/has-text-dark/is-size-4 has-text-r"
+                },
+                "E76CBE95-03FA-4145-BBCE-C9025B6E2C5B": {
+                    "name": "typography/has-text-white/is-size-3 has-text-c"
+                },
+                "6FF59061-D56F-4990-AA0B-4E70209E27BB": {
+                    "name": "typography/has-text-dark/is-size-2"
+                },
+                "A3563F3A-4F22-4D7B-8E7A-54092826E20A": {
+                    "name": "typography/has-text-danger/is-size-3 has-text-r"
+                },
+                "43D7EBB6-8554-4CCE-A196-76FC63FFD5EB": {
+                    "name": "typography/has-text-warning/is-size-5"
+                },
+                "A5251913-E04C-402E-9235-6674BD04B1B7": {
+                    "name": "typography/has-text-success/is-size-3 has-text-r"
+                },
+                "155C48C9-F513-455B-AA7E-5D8B19DB70C5": {
+                    "name": "typography/has-text-success/is-size-4 has-text-c"
+                },
+                "CA99F7BF-B84C-4D68-996A-243A12E51BBB": {
+                    "name": "typography/has-text-black/is-size-3"
+                },
+                "A18F29A1-28E7-42B0-A9A2-25963B038D76": {
+                    "name": "typography/has-text-warning/is-size-3 has-text-c"
+                },
+                "85922DCC-88CF-456C-9F83-325120BBD950": {
+                    "name": "typography/has-text-white/is-size-5 has-text-c"
+                },
+                "D67737BA-AFE0-4B6C-A0BF-94BF532AF8F5": {
+                    "name": "typography/has-text-white/is-size-1 has-text-c"
+                },
+                "463FF7BC-7683-4711-AC07-D41844FB277D": {
+                    "name": "typography/has-text-danger/is-size-1 has-text-r"
+                },
+                "01A97E80-CEE5-4336-8C7E-138E6A152EA8": {
+                    "name": "typography/has-text-danger/is-size-1 has-text-c"
+                },
+                "574B4DED-7799-4E21-B277-94ABCA40523F": {
+                    "name": "typography/has-text-black/is-size-3 has-text-c"
+                },
+                "59AB9C7A-A0EC-49B1-A95F-EAFF0DBE120E": {
+                    "name": "typography/has-text-black/is-size-2 has-text-c"
+                },
+                "F6C33B5C-F746-48A5-B14A-81CD089A840D": {
+                    "name": "typography/has-text-danger/is-size-4 has-text-c"
+                },
+                "31B63168-559A-405D-A2BA-11954D9BD8A1": {
+                    "name": "typography/has-text-primary/is-size-2 has-text-c"
+                },
+                "5649D1DF-4ACA-40FE-BCA9-5A20C2B4591E": {
+                    "name": "typography/has-text-danger/is-size-7"
+                }
+            }
+        },
+        "22CB8CAB-2EF3-4DC5-9F3E-3D3675BA1095": {
+            "name": "Elements/Delete",
+            "artboards": {
+                "239BE92C-3065-4829-9754-39635BC62147": {
+                    "name": "elements/delete/delete is-large"
+                },
+                "7F1E90F3-C171-40FA-99E0-962037C68396": {
+                    "name": "elements/delete/delete is-small"
+                },
+                "B49B6918-CBF2-441F-8257-36394E92A173": {
+                    "name": "elements/delete/delete"
+                },
+                "355B7914-AC76-4171-AA4B-9A6889DEA2FF": {
+                    "name": "elements/delete/delete is-medium"
+                }
+            }
+        },
+        "C35622D4-C3F9-4D24-9C6A-1C81D43F16D6": {
+            "name": "Elements/Table",
+            "artboards": {}
+        },
+        "1A87815E-54E5-4855-B28B-927E11EF0B40": {
+            "name": "Elements/Progress",
+            "artboards": {
+                "44E84846-9BC4-4099-AE80-2C32D46B11C1": {
+                    "name": "elements/progress/progress-medium"
+                },
+                "D5A69371-9994-497D-9D3B-4DCB84FB70CC": {
+                    "name": "elements/progress/progress"
+                },
+                "9B0DC7F2-0710-424D-83B1-334A48CB69A3": {
+                    "name": "elements/progress/progress-large"
+                },
+                "54E05347-B04B-4008-8225-B8308BB27F4C": {
+                    "name": "elements/progress/progress-small"
+                }
+            }
+        },
+        "44CD30FC-1653-4795-9088-21C13C8E0F3A": {
+            "name": "Form",
+            "artboards": {
+                "2CB555E7-4BF1-42F4-B4C7-EEE8843D2F80": {
+                    "name": "form/control/textarea/textarea-large"
+                },
+                "33B22FF7-D104-457B-9EFA-B05742EFC447": {
+                    "name": "form/control/file/medium/file-cta has-name"
+                },
+                "DEA2A906-992E-4764-843E-B47B1B7A027A": {
+                    "name": "form/field/field-normal"
+                },
+                "E6938B8B-244B-4B33-9A11-FD3E17D431BC": {
+                    "name": "form/control/file/default/file-cta"
+                },
+                "E9599EC4-1DFC-4F90-9895-443289510D60": {
+                    "name": "form/control/file/small/file-name has-name"
+                },
+                "0179AC10-30F2-4EA0-A533-00FF1BAA6324": {
+                    "name": "form/control/select/select-medium"
+                },
+                "91971346-9C87-471A-82FF-9D0D66A10CCA": {
+                    "name": "form/field/field-small help"
+                },
+                "EC3AD05C-8356-4A43-82B1-3118EACC4267": {
+                    "name": "form/control/input/input-normal/has-icons-left"
+                },
+                "13EFC613-84F4-4E02-93FB-6FA7027CF3D9": {
+                    "name": "form/control/input/input-small"
+                },
+                "BEFB8F9C-F0B6-490A-BB28-E5FB9E0C4267": {
+                    "name": "form/control/input/input-normal/disabled"
+                },
+                "981037FA-FF5C-4AA2-92DA-936BF3159055": {
+                    "name": "form/label/label-medium"
+                },
+                "9BD95C71-6008-416E-9EB7-C37F1743DA1C": {
+                    "name": "form/field/field-normal help"
+                },
+                "42AD4C53-0C49-471B-9C37-7FF56ADA2CAD": {
+                    "name": "form/control/select/select-small/has-icons-left"
+                },
+                "C78B3D7E-827A-478A-B4CA-C7B2AA076389": {
+                    "name": "form/control/select/select-small"
+                },
+                "2D84C29E-39AC-44BB-992D-A48C3A1E7A76": {
+                    "name": "form/control/input/input-large/disabled"
+                },
+                "C7F8B6C5-1A28-4BC3-A905-DF214C92DCFE": {
+                    "name": "form/control/input/input-normal/has-icons-right"
+                },
+                "F5B2B7C6-0FC6-46BA-8E5D-61DC2004FE9E": {
+                    "name": "form/control/select/select-large"
+                },
+                "A9FE6335-86DC-418A-ADD9-2EF05743F4D7": {
+                    "name": "form/control/input/input-medium/has-icons-left"
+                },
+                "D86D40FF-B51D-4919-A1AD-F1AF0F851F14": {
+                    "name": "form/control/file/large/file-name has-name"
+                },
+                "EA2ED118-CE34-4AB6-9263-5E8582912549": {
+                    "name": "form/control/radio-checked"
+                },
+                "789A8863-D86B-48FD-8880-E5114B90C048": {
+                    "name": "form/control/textarea/textarea-small"
+                },
+                "CFF14632-BC80-4614-856A-85B142F9A25D": {
+                    "name": "form/control/file/small/file-cta"
+                },
+                "F868DC13-674C-43CF-92AC-1CDF0409465A": {
+                    "name": "form/field/field-large-textarea"
+                },
+                "6C277093-E6B1-4F62-8003-BB9FEEACC255": {
+                    "name": "form/control/select/select-medium/has-icons-left"
+                },
+                "286535D9-EE44-48CF-803A-9E2E58B42A0E": {
+                    "name": "form/field/field-small"
+                },
+                "6F1096AD-7975-44CA-8E09-E683B459DAA4": {
+                    "name": "form/control/file/medium/is-boxed file-cta"
+                },
+                "4B79751D-0CC9-46F6-9B77-6C7ABE889F60": {
+                    "name": "form/control/textarea/textarea-normal"
+                },
+                "9E438BB6-9C92-49E1-A9C0-346CB78D22BE": {
+                    "name": "form/control/checkbox-checked"
+                },
+                "A0C8A89A-F07E-4B33-ADAE-9A28EC5705E4": {
+                    "name": "form/control/file/default/file-name has-name"
+                },
+                "53176447-4258-4E9E-ABF2-1187BAC644DB": {
+                    "name": "form/control/file/default/is-boxed file-cta"
+                },
+                "0539DDBE-1B41-4862-826A-7821B343C7BF": {
+                    "name": "form/control/textarea/textarea-normal/disabled"
+                },
+                "D18267AE-290D-4A28-BA80-BF8B07D0CB18": {
+                    "name": "form/control/checkbox"
+                },
+                "3C7A6D63-E7D7-44E5-8AE2-00F9550650A0": {
+                    "name": "form/control/textarea/textarea-medium/disabled"
+                },
+                "586B80D6-A431-438D-8E02-F5991FF40FDF": {
+                    "name": "form/control/file/default/file-cta is-right has-name"
+                },
+                "15E890F2-DDCA-4F4A-8E6B-4C6059777AC9": {
+                    "name": "form/control/file/small/file-cta is-right has-name"
+                },
+                "137E3C07-004A-4419-A9DC-6BABC2DE6606": {
+                    "name": "form/control/file/medium/file-cta"
+                },
+                "E463CEC8-1399-4616-B10D-6148B8C6E0CC": {
+                    "name": "form/control/input/input-medium"
+                },
+                "A630C0F8-1B3A-47A4-B8B2-9AF8DA3529C4": {
+                    "name": "form/control/input/input-large"
+                },
+                "6812F746-6C55-4628-AD12-EBD51115E71C": {
+                    "name": "form/control/file/medium/is-boxed file-cta has-name"
+                },
+                "C730A3A5-23C3-4CBE-8BEB-AAAA8E345B2D": {
+                    "name": "form/field/field-large"
+                },
+                "A1BA31FF-61FC-41BF-BAFD-26133D17C5AA": {
+                    "name": "form/control/textarea/textarea-medium"
+                },
+                "598C9668-D445-4445-9BA3-A33A3BF69B01": {
+                    "name": "form/label/label-large"
+                },
+                "290E994E-4352-4CC8-88DC-209A5DDBD0D9": {
+                    "name": "form/control/input/input-large/has-icons-left"
+                },
+                "8B2935FB-A14A-41D8-A910-FB1DA31BB303": {
+                    "name": "form/control/input/input-medium/has-icons-left has-icons-right"
+                },
+                "FD3C8E57-B31C-4AFB-AB4B-0BB6410C99BD": {
+                    "name": "form/control/input/input-small/has-icons-left"
+                },
+                "35282818-B777-4590-8FC3-8E7A832C4F30": {
+                    "name": "form/control/file/default/file-cta has-name"
+                },
+                "4AF91C2D-EEFF-4E02-BE40-209866707EC7": {
+                    "name": "form/control/file/default/is-boxed file-cta has-name"
+                },
+                "3B607B3E-22AD-460F-89F5-07F9BEB6072C": {
+                    "name": "form/control/file/small/file-name is-right has-name"
+                },
+                "9C9499AB-5E23-4342-99BD-76BBFEE5A89E": {
+                    "name": "form/control/file/small/file-cta has-name"
+                },
+                "03FB40B3-03DB-4D70-AC92-D34D74440E95": {
+                    "name": "form/field/field-normal-textarea help"
+                },
+                "D2BBF742-1E04-41DF-B6F3-4353863B6DBB": {
+                    "name": "form/control/radio"
+                },
+                "9420AA4E-C6F4-41A3-837C-983FEF32E03C": {
+                    "name": "form/field/field-small-textarea"
+                },
+                "C674BA14-3DE1-47FE-8441-A2CAF716CCE1": {
+                    "name": "form/control/select/select-normal/has-icons-left"
+                },
+                "296DC269-3C42-4C66-BEAE-0AAB7E37B29B": {
+                    "name": "form/control/file/small/is-boxed file-cta"
+                },
+                "7FA8D941-3833-4EA6-90BE-C1398675798C": {
+                    "name": "form/field/field-medium-textarea"
+                },
+                "747D3264-CB87-4A1A-BBA0-4206FAC167FA": {
+                    "name": "form/control/input/input-small/has-icons-left has-icons-right"
+                },
+                "75634915-9544-474F-A478-1FA30E5442C1": {
+                    "name": "form/control/file/medium/file-name is-right has-name"
+                },
+                "A9F662E2-3527-4D87-BE88-CE8F1EFD99B7": {
+                    "name": "form/label/label-small"
+                },
+                "498A28C9-3754-4E0A-9774-1958DDDFC1A9": {
+                    "name": "form/label/label-normal"
+                },
+                "65C301D7-848B-4082-8CF9-9DDF33322E16": {
+                    "name": "form/control/input/input-medium/has-icons-right"
+                },
+                "E0D851F5-9E50-4357-9868-288B63CF187A": {
+                    "name": "form/control/file/large/file-cta is-right has-name"
+                },
+                "70D62BE7-4E82-4BEA-BBC9-976FF2ADC63D": {
+                    "name": "form/control/file/small/is-boxed file-cta has-name"
+                },
+                "98A3C12B-E04B-4B26-9922-730A89A82BC9": {
+                    "name": "form/control/file/large/file-cta"
+                },
+                "27060192-E9EB-4094-AB81-0CAE6AFAE951": {
+                    "name": "form/control/textarea/textarea-large/disabled"
+                },
+                "12C72A69-62F4-4666-8069-9304CA4FEC48": {
+                    "name": "form/control/file/large/is-boxed file-cta has-name"
+                },
+                "06808E2F-8184-4516-9A83-B558A09DBDBC": {
+                    "name": "form/field/field-small-textarea help"
+                },
+                "B635D120-C52F-4DAB-8F7C-5AA8852B1738": {
+                    "name": "form/control/file/medium/file-cta is-right has-name"
+                },
+                "C04AEC1B-1665-414A-A512-964A0B0DC569": {
+                    "name": "form/control/input/input-normal/has-icons-left has-icons-right"
+                },
+                "85724919-B17E-4968-8A9E-87AD807C2AF0": {
+                    "name": "form/control/input/input-small/disabled"
+                },
+                "6AAB098E-011F-4769-8E57-55E7750CEA8D": {
+                    "name": "form/control/file/default/file-name is-right has-name"
+                },
+                "31DF3A58-F72E-4E60-9C58-4B24D706F938": {
+                    "name": "form/field/field-medium help"
+                },
+                "405D39E9-3C3C-4C73-8875-5086A78747BD": {
+                    "name": "form/field/field-large-textarea help"
+                },
+                "E89EC64E-CC14-43F4-BA24-F91062D12063": {
+                    "name": "form/control/input/input-medium/disabled"
+                },
+                "BA1E883C-686B-4293-8A96-7720C5F2BCEA": {
+                    "name": "form/control/input/input-large/has-icons-left has-icons-right"
+                },
+                "E397748B-C170-4164-B811-D8E55A85DB87": {
+                    "name": "form/field/field-medium-textarea help"
+                },
+                "A80ECBB2-B9DA-4BA3-B135-3E8DBE7AC805": {
+                    "name": "form/control/file/medium/file-name has-name"
+                },
+                "93363846-3A63-4BCA-B1B9-053CDFF3FD00": {
+                    "name": "form/control/file/large/is-boxed file-cta"
+                },
+                "E7FF79C8-1C0E-40C0-AD96-316C103EFAC1": {
+                    "name": "form/control/select/select-large/has-icons-left"
+                },
+                "90AFF285-E8C5-44A9-B8F2-CEFE8E67DBBF": {
+                    "name": "form/control/file/large/file-cta has-name"
+                },
+                "47854FAE-C162-49F4-96B2-D387B66F2981": {
+                    "name": "form/field/field-large help"
+                },
+                "BA3FA39D-540C-4B31-9BAC-574747B36DE2": {
+                    "name": "form/control/input/input-large/has-icons-right"
+                },
+                "E7E971E0-4F92-479B-8DBE-36126739B55B": {
+                    "name": "form/control/select/select-normal"
+                },
+                "DE0CAA79-C148-4753-9244-0AA9D2A64ABF": {
+                    "name": "form/control/input/input-small/has-icons-right"
+                },
+                "0D7E182D-CEF5-4276-8000-A70015C990ED": {
+                    "name": "form/field/field-medium"
+                },
+                "677D6E92-1B2D-47B0-827C-361CDA0B88BE": {
+                    "name": "form/field/field-normal-textarea"
+                },
+                "07266084-2140-4124-AECB-12C208065979": {
+                    "name": "form/control/input/input-normal"
+                },
+                "0F9B42A7-CBC2-4FB5-9798-077AAAA550F6": {
+                    "name": "form/control/textarea/textarea-small/disabled"
+                },
+                "4C271579-A567-465B-A659-78209E966144": {
+                    "name": "form/control/file/large/file-name is-right has-name"
+                }
+            }
+        },
+        "4C779A59-3A7B-4A27-8E4C-EC2DD4FFB1F2": {
+            "name": "Elements/Title",
+            "artboards": {}
+        },
+        "D41A1F35-FFAE-468D-B9B7-FB4AAFDBA3B6": {
+            "name": "Elements/Icon",
+            "artboards": {
+                "3C9AB8FE-E825-47CC-ABB5-EBAC2B4D1D77": {
+                    "name": "elements/icon/default-container/icon [in default container]/dark"
+                },
+                "307C3990-C9BB-43FB-9BD3-5BE4A35FEA7F": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/black"
+                },
+                "4F101229-7F61-4A3A-9F85-645BEAC67FE7": {
+                    "name": "elements/icon/default-container/icon [in default container]/danger"
+                },
+                "F3EFEAC2-1DD9-4F37-AE81-EB56776A22AF": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/danger"
+                },
+                "D978DFE9-2202-48FA-B697-96FFD352C4FD": {
+                    "name": "elements/icon/large-container/icon [in large container]/dark"
+                },
+                "AB628EE3-ACEB-4DE8-8E80-9C1E4EA456BF": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/black"
+                },
+                "9C7F104E-1A39-4EA7-A628-08839588E2D1": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/dark"
+                },
+                "C1F09C20-0933-49FA-9D9F-402C79FD98AA": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/light"
+                },
+                "1C90AEAC-2B8E-4E3D-829E-7423BB02EB38": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/black"
+                },
+                "79B919AC-E9D5-48F8-AC28-CC0679D15B4E": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/dark"
+                },
+                "64638838-15FC-474D-A46E-8D28182BDA13": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/white"
+                },
+                "849AD082-D6A2-4D38-8E48-56555013DD79": {
+                    "name": "elements/icon/default-container/icon [in default container]/white"
+                },
+                "505FA20D-B611-4384-A2C4-56C1CD76AA5E": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/danger"
+                },
+                "8DAEEB35-5DEE-4770-B813-79AAE8D64B0F": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/info"
+                },
+                "FD065A87-57A4-4852-8135-DD151AB935A7": {
+                    "name": "elements/icon/default-container/icon [in default container]/success"
+                },
+                "D0A5B654-C4A9-4C06-A5EB-9EA6B1D7CC80": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/info"
+                },
+                "4038AE15-6EF9-4628-9B24-4D02BCA50DD0": {
+                    "name": "elements/icon/default-container/icon [in default container]/primary"
+                },
+                "4BBB490E-0F86-48B7-A3C2-1B2869E3F395": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/primary"
+                },
+                "44E8D8AF-E183-4ECA-8757-0F27981E8029": {
+                    "name": "elements/icon/large-container/icon [in large container]/primary"
+                },
+                "62B6CFE2-2321-40AF-BE0C-C4825E674C22": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/light"
+                },
+                "56EA6D8B-B10E-44C0-95D5-B01123F13F22": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/light"
+                },
+                "F7A3CCFF-E6AD-41CE-A9EE-E41B8B0A776A": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/info"
+                },
+                "FE283DCA-760B-4B10-98C9-44D955CBDCDD": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/danger"
+                },
+                "9815B1AE-E759-43EF-8585-B02FD3454902": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/primary"
+                },
+                "F283F75E-0DBF-44D1-AE40-53C03343616D": {
+                    "name": "elements/icon/large-container/icon [in large container]/white"
+                },
+                "122C5EAD-2B44-4137-BD4D-A00D65761E7C": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/info"
+                },
+                "CC8D5111-C46D-4572-9A3B-797AC5BE9C32": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/info"
+                },
+                "65081B51-A766-4823-9E23-986B8908BFE3": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/light"
+                },
+                "6F528A66-5A3A-431C-9FBD-FD9BFC47FA79": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/light"
+                },
+                "A512FA95-C45C-4332-8F57-3ACD210F520A": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/danger"
+                },
+                "E2BA9203-F2E2-459C-8618-80E0EDD59058": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/light"
+                },
+                "C44C3161-5822-4B26-9E3C-75D57839F1AE": {
+                    "name": "elements/icon/large-container/icon [in large container]/black"
+                },
+                "AF5EDCF4-8412-4800-80D8-EE63AE5B506A": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/primary"
+                },
+                "2795EB61-FB28-49EA-A096-F34AC01F8E2B": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/black"
+                },
+                "D2F61378-E198-441F-9268-A9ECFA4AE7F4": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/danger"
+                },
+                "94067713-DDB1-428A-84F2-94EE732DCFAC": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/primary"
+                },
+                "02C9B775-0735-4A69-8162-0290B12C5D37": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/dark"
+                },
+                "2745847D-5B68-4738-ABB6-43583D07DD79": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/white"
+                },
+                "BE01B402-18F6-4BA5-830C-34A52626807B": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/danger"
+                },
+                "1B2FAFC0-CDF9-4C20-8950-F9C1697869F5": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/danger"
+                },
+                "F787B2AD-391F-43FA-8DA6-980F9B7F5F5A": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/white"
+                },
+                "56C81D82-F9B8-4527-B803-1A6AEFE3C98A": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/white"
+                },
+                "CF389600-483D-4112-B9B5-31354D00C1D0": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/black"
+                },
+                "724A1D28-5437-449F-93EF-2CD9C0BB6218": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/dark"
+                },
+                "39B21BDA-EF0A-403F-ADE3-89EECC8119C6": {
+                    "name": "elements/icon/large-container/icon [in large container]/danger"
+                },
+                "990B05FB-C82E-4723-ACFD-493815981F59": {
+                    "name": "elements/icon/default-container/icon [in default container]/info"
+                },
+                "0D6AED98-5753-431A-844A-D23B97B7D1E2": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/dark"
+                },
+                "183825A1-29B6-4FB5-8756-24FF54421A7B": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/dark"
+                },
+                "BC05DA67-613C-4177-84EB-72A0EFC2C251": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/success"
+                },
+                "2D8F8FEA-9D0C-4860-BB5E-4D0509127B9B": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/primary"
+                },
+                "18F54299-E553-45D1-AC75-AD43F7EFD6D3": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/primary"
+                },
+                "A6B19CCC-ADAD-4258-A7DE-E710E183462F": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/primary"
+                },
+                "93541000-FE97-4F8D-9B1D-C488FD4C41DA": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/white"
+                },
+                "B29AD0A8-34B9-481B-8AEE-66F9F4B425DD": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/danger"
+                },
+                "2089EFD7-B241-418F-B3AE-2C082F1A152C": {
+                    "name": "elements/icon/default-container/icon [in default container]/black"
+                },
+                "284353CD-0A4B-44E8-AFC5-D24E1080FA10": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/white"
+                },
+                "DB9A24D9-E949-4D6B-A996-03449D109B00": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/black"
+                },
+                "8CD44DC3-8F03-454F-BF0D-8D6261FA7D9D": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/info"
+                },
+                "B134CB32-A2EC-4168-B614-C78B32FBDC70": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/success"
+                },
+                "22E8CC26-B8BC-4161-9795-A1DF9F43B2C6": {
+                    "name": "elements/icon/medium-container/icon [in medium container]/success"
+                },
+                "A94C43B7-96D9-49FA-A750-83635FADA868": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/white"
+                },
+                "2319F449-35AC-48E6-AAB5-EE0DF4601811": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/dark"
+                },
+                "4C49663B-AA61-4357-A4F6-AA74893AB7F8": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/black"
+                },
+                "3D76BA1B-6953-4C2B-83EF-F2D69BC49239": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/light"
+                },
+                "A49589F5-C396-4E37-A55A-69E7F6C11C65": {
+                    "name": "elements/icon/large-container/icon [in large container]/light"
+                },
+                "AA5EB3C0-A622-43D2-8C31-17C13572C98B": {
+                    "name": "elements/icon/large-container/icon-small [in large container]/success"
+                },
+                "6674F100-7366-439E-8E8F-60642414675E": {
+                    "name": "elements/icon/default-container/icon-small [in default container]/info"
+                },
+                "FA37F39C-CE46-4C55-B597-5B8737FE6BAA": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/primary"
+                },
+                "A85DC0C9-0C7A-4993-9120-595ED50BB602": {
+                    "name": "elements/icon/large-container/icon [in large container]/info"
+                },
+                "9177CDCF-4B8D-4483-ADB8-479067BF8E78": {
+                    "name": "elements/icon/large-container/icon [in large container]/success"
+                },
+                "08CF8E30-D990-41EB-94CC-6AB8FB6F930F": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/black"
+                },
+                "32622432-C472-45BF-96E1-77557B9828BB": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/white"
+                },
+                "6948917B-D29A-4759-9425-C52624DF1BBD": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/dark"
+                },
+                "FE546318-5BC0-42E7-8FB1-C5C44E19212D": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/info"
+                },
+                "48BF9AAA-124E-4818-B95D-EE4D7B1DA288": {
+                    "name": "elements/icon/medium-container/icon-small [in medium container]/success"
+                },
+                "4C680B73-AC19-46F1-A33A-61F278CF4413": {
+                    "name": "elements/icon/medium-container/icon-medium [in medium container]/success"
+                },
+                "DD65C8D2-A7AD-4705-B454-FD44098ED0A9": {
+                    "name": "elements/icon/large-container/icon-medium [in large container]/success"
+                },
+                "ECDFA773-58A5-4480-98BA-85C77031F36D": {
+                    "name": "elements/icon/large-container/icon-large [in large container]/light"
+                },
+                "C330CFDF-D8AE-4F5D-8F0C-8BE0753E55E3": {
+                    "name": "elements/icon/small-container/icon-small [in small container]/success"
+                },
+                "23BF3AB3-2937-412A-8966-6331EB8E70B4": {
+                    "name": "elements/icon/default-container/icon [in default container]/light"
+                }
+            }
+        },
+        "6C2C2421-C194-4968-B615-0A2FDF91E841": {
+            "name": "Bulma",
+            "artboards": {}
+        },
+        "D20C6EC0-AEEA-42FE-AB16-044134DBB761": {
+            "name": "Symbols",
+            "artboards": {
+                "C2A677C5-8A19-4D91-8088-B4C147F8C4E5": {
+                    "name": "various/unfold-arrow-small"
+                },
+                "0DF50DDB-72B3-419C-9E2F-24417BEDA2C6": {
+                    "name": "various/unfold-arrow-normal"
+                },
+                "B7BFA745-EC4B-40CA-A5AD-B6E72A6A0050": {
+                    "name": "various/unfold-arrow-medium"
+                },
+                "560DD7AA-6CC2-4EFB-884A-29C0B4E34E0C": {
+                    "name": "various/unfold-arrow-large"
+                }
+            }
+        },
+        "3AA405E0-E219-4F69-8AED-4F89374AA4CF": {
+            "name": "Elements/Box",
+            "artboards": {
+                "EB16600A-2B51-4FAE-8695-16BEB88724D3": {
+                    "name": "elements/box"
+                }
+            }
+        },
+        "0F292792-FB53-48DC-9A14-04F65CB4E42B": {
+            "name": "Elements/Button",
+            "artboards": {
+                "9555809E-1FFB-4A0C-8588-219F3E7DB9A0": {
+                    "name": "elements/button/large+icon/icon-right"
+                },
+                "809924CE-61B0-47B1-9A0B-CF5F8BE98D09": {
+                    "name": "elements/button/medium"
+                },
+                "57E08AA3-F2EB-4C63-9109-64D0E438FA6C": {
+                    "name": "elements/button/default"
+                },
+                "213AFB98-8A08-4B6D-A0FE-16FC0668CD57": {
+                    "name": "elements/button/default+icon/icon"
+                },
+                "9A36BE9F-DF16-4D2E-989C-E2524D83B70C": {
+                    "name": "elements/button/large"
+                },
+                "F0AF9302-6D47-4B3F-99AD-B5DF26B24C7C": {
+                    "name": "elements/button/small+icon/icon"
+                },
+                "B59CA824-8A5F-403F-BF03-14DF7D72816B": {
+                    "name": "elements/button/small+icon/icon-right"
+                },
+                "CD1F70A6-C22E-45A7-BE4B-EB484EB2C52B": {
+                    "name": "elements/button/default+icon/icon-left"
+                },
+                "4A475ECA-A546-4FFA-AAF1-DC8DDF4778BA": {
+                    "name": "elements/button/medium+icon/icon-right"
+                },
+                "9B151EC4-4995-4E49-BEA0-D8B8B82C1BB1": {
+                    "name": "elements/button/large+icon/icon-left"
+                },
+                "BEA45617-B306-407F-82E0-7BD3FCE72381": {
+                    "name": "elements/button/large+icon/icon"
+                },
+                "C5A707D0-F7DF-437D-A61B-091AE5C420E7": {
+                    "name": "elements/button/small"
+                },
+                "283E0335-6259-45D5-A71B-3EEC9AB65229": {
+                    "name": "elements/button/default+icon/icon-right"
+                },
+                "ED5CD69F-A972-43E0-ABD2-30D307DB12B3": {
+                    "name": "elements/button/small+icon/icon-left"
+                },
+                "0E70917B-27D7-4230-A1F6-271AA3DD08EA": {
+                    "name": "elements/button/medium+icon/icon-left"
+                },
+                "E04D4525-840E-4034-AE5E-349E9923D579": {
+                    "name": "elements/button/link"
+                },
+                "265526F7-7D8B-4E87-BBE1-1FD8CE9C62F3": {
+                    "name": "elements/button/medium+icon/icon"
+                }
+            }
+        },
+        "1E4C3060-2220-46F9-A5EF-34C57B22D471": {
+            "name": "Elements/Notification",
+            "artboards": {
+                "1BED5AA6-1EE6-4402-B8E6-5547CA1A4037": {
+                    "name": "elements/notification/notification-layout"
+                },
+                "0F439ECB-12C0-445E-922E-EEE9C610FF13": {
+                    "name": "elements/notification/notification"
+                }
+            }
+        }
+    },
+    "version": 101,
+    "fonts": [
+        "FontAwesome",
+        "FiraSans-Regular",
+        "FiraSans-SemiBold",
+        "Roboto-Regular",
+        "Roboto-Medium",
+        "Roboto-Bold",
+        "LucidaGrande",
+        "FiraSans-Bold"
+    ],
+    "compatibilityVersion": 93,
+    "app": "com.bohemiancoding.sketch3",
+    "autosaved": 0,
+    "variant": "NONAPPSTORE",
+    "created": {
+        "commit": "9dcf53ec96d1408dbda79e7865e04e3284438d9d",
+        "appVersion": "49.1",
+        "build": 51147,
+        "app": "com.bohemiancoding.sketch3",
+        "compatibilityVersion": 93,
+        "version": 101,
+        "variant": "NONAPPSTORE"
+    },
+    "saveHistory": [
+        "NONAPPSTORE.51147"
+    ],
+    "appVersion": "49.1",
+    "build": 51147
+}

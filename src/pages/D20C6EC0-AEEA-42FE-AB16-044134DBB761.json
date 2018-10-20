@@ -1,0 +1,1934 @@
+{
+    "_class": "page",
+    "do_objectID": "D20C6EC0-AEEA-42FE-AB16-044134DBB761",
+    "exportOptions": {
+        "_class": "exportOptions",
+        "exportFormats": [],
+        "includedLayerIds": [],
+        "layerOptions": 0,
+        "shouldTrim": false
+    },
+    "frame": {
+        "_class": "rect",
+        "constrainProportions": false,
+        "height": 300,
+        "width": 300,
+        "x": 0,
+        "y": 0
+    },
+    "isFlippedHorizontal": false,
+    "isFlippedVertical": false,
+    "isLocked": false,
+    "isVisible": true,
+    "layerListExpandedType": 0,
+    "name": "Symbols",
+    "nameIsFixed": false,
+    "resizingConstraint": 63,
+    "resizingType": 0,
+    "rotation": 0,
+    "shouldBreakMaskChain": false,
+    "style": {
+        "_class": "style",
+        "endDecorationType": 0,
+        "miterLimit": 10,
+        "startDecorationType": 0
+    },
+    "hasClickThrough": true,
+    "layers": [
+        {
+            "_class": "symbolMaster",
+            "do_objectID": "C2A677C5-8A19-4D91-8088-B4C147F8C4E5",
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 10,
+                "width": 10,
+                "x": 100,
+                "y": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "various/unfold-arrow-small",
+            "nameIsFixed": false,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "style": {
+                "_class": "style",
+                "endDecorationType": 0,
+                "miterLimit": 10,
+                "startDecorationType": 0
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "group",
+                    "do_objectID": "F6ED2DA2-E42F-4D3C-B01C-BC679EBB66EF",
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 10,
+                        "width": 10,
+                        "x": 0,
+                        "y": 0
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 2,
+                    "name": "colors/primary",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "style": {
+                        "_class": "style",
+                        "endDecorationType": 0,
+                        "miterLimit": 10,
+                        "startDecorationType": 0
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "shapeGroup",
+                            "do_objectID": "3B920D11-CF47-4CEF-AE89-2DE2B42CCF3A",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 6,
+                                "width": 6,
+                                "x": 2,
+                                "y": 2
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 2,
+                            "name": "Mask",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 45,
+                            "resizingType": 0,
+                            "rotation": -45,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "borders": [
+                                    {
+                                        "_class": "border",
+                                        "isEnabled": false,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.592,
+                                            "green": 0.592,
+                                            "red": 0.592
+                                        },
+                                        "fillType": 0,
+                                        "position": 1,
+                                        "thickness": 1
+                                    }
+                                ],
+                                "endDecorationType": 0,
+                                "fills": [
+                                    {
+                                        "_class": "fill",
+                                        "isEnabled": true,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.847,
+                                            "green": 0.847,
+                                            "red": 0.847
+                                        },
+                                        "fillType": 0,
+                                        "noiseIndex": 0,
+                                        "noiseIntensity": 0,
+                                        "patternFillType": 1,
+                                        "patternTileScale": 1
+                                    }
+                                ],
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "hasClickThrough": false,
+                            "layers": [
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "31DEB9D1-5447-4973-8947-2CA6BDD9D4C5",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 6,
+                                        "x": 0,
+                                        "y": 5
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": 0,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                },
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "5A035624-9AC0-4997-9F69-E59ED4A8700A",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 6,
+                                        "x": 2.5,
+                                        "y": 2.5
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle Copy",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": -90,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                }
+                            ],
+                            "clippingMaskMode": 0,
+                            "hasClippingMask": true,
+                            "windingRule": 1
+                        },
+                        {
+                            "_class": "symbolInstance",
+                            "do_objectID": "D8C3AADA-F0E5-4715-8EF7-7F89D42E4E89",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 10,
+                                "width": 10,
+                                "x": 0,
+                                "y": 0
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "colors/primary",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "endDecorationType": 0,
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "horizontalSpacing": 0,
+                            "overrideValues": [],
+                            "scale": 0,
+                            "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
+                            "verticalSpacing": 0,
+                            "overrides": {}
+                        }
+                    ]
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": false,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "resizesContent": false,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInInstance": false,
+            "symbolID": "6C691ED7-7F56-46A0-9588-2CFB69058288",
+            "changeIdentifier": 13
+        },
+        {
+            "_class": "symbolMaster",
+            "do_objectID": "0DF50DDB-72B3-419C-9E2F-24417BEDA2C6",
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 10,
+                "width": 12,
+                "x": 120,
+                "y": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "various/unfold-arrow-normal",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "style": {
+                "_class": "style",
+                "endDecorationType": 0,
+                "miterLimit": 10,
+                "startDecorationType": 0
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "group",
+                    "do_objectID": "65267DC2-31A2-471D-86FA-07D78CFF8479",
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 12,
+                        "width": 12,
+                        "x": 0,
+                        "y": -2
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 2,
+                    "name": "colors/primary",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "style": {
+                        "_class": "style",
+                        "endDecorationType": 0,
+                        "miterLimit": 10,
+                        "startDecorationType": 0
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "shapeGroup",
+                            "do_objectID": "8A2B5323-5B99-4779-A274-24459E0DA241",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 8,
+                                "width": 8,
+                                "x": 2,
+                                "y": 1.656854249492381
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 2,
+                            "name": "Mask",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 45,
+                            "resizingType": 0,
+                            "rotation": -45,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "borders": [
+                                    {
+                                        "_class": "border",
+                                        "isEnabled": false,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.592,
+                                            "green": 0.592,
+                                            "red": 0.592
+                                        },
+                                        "fillType": 0,
+                                        "position": 1,
+                                        "thickness": 1
+                                    }
+                                ],
+                                "endDecorationType": 0,
+                                "fills": [
+                                    {
+                                        "_class": "fill",
+                                        "isEnabled": true,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.847,
+                                            "green": 0.847,
+                                            "red": 0.847
+                                        },
+                                        "fillType": 0,
+                                        "noiseIndex": 0,
+                                        "noiseIntensity": 0,
+                                        "patternFillType": 1,
+                                        "patternTileScale": 1
+                                    }
+                                ],
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "hasClickThrough": false,
+                            "layers": [
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "3749FD56-A173-4454-A8E9-5FF3A4F0B3F2",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 8,
+                                        "x": -1.77635683940025e-15,
+                                        "y": 7
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": 0,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                },
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "D59D6B03-2C3F-4845-8019-4A905BE458FE",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 8,
+                                        "x": 3.499999999999998,
+                                        "y": 3.5
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle Copy",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": -90,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                }
+                            ],
+                            "clippingMaskMode": 0,
+                            "hasClippingMask": true,
+                            "windingRule": 1
+                        },
+                        {
+                            "_class": "symbolInstance",
+                            "do_objectID": "E9CA5445-9EB3-4EB5-95BE-84409EA84E1C",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 10,
+                                "width": 12,
+                                "x": 0,
+                                "y": 2
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "colors/primary",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "endDecorationType": 0,
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "horizontalSpacing": 0,
+                            "overrideValues": [],
+                            "scale": 0,
+                            "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
+                            "verticalSpacing": 0,
+                            "overrides": {}
+                        }
+                    ]
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": false,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "resizesContent": false,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInInstance": false,
+            "symbolID": "DC86FDEC-75B0-4FBE-94C2-A4EAF1C0AC53",
+            "changeIdentifier": 344
+        },
+        {
+            "_class": "symbolMaster",
+            "do_objectID": "B7BFA745-EC4B-40CA-A5AD-B6E72A6A0050",
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 10,
+                "width": 14,
+                "x": 140,
+                "y": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "various/unfold-arrow-medium",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "style": {
+                "_class": "style",
+                "endDecorationType": 0,
+                "miterLimit": 10,
+                "startDecorationType": 0
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "group",
+                    "do_objectID": "090608F0-7D98-4F90-840B-0F5F0D1EF81A",
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 15,
+                        "width": 16,
+                        "x": -1,
+                        "y": -5
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 2,
+                    "name": "colors/primary",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "style": {
+                        "_class": "style",
+                        "endDecorationType": 0,
+                        "miterLimit": 10,
+                        "startDecorationType": 0
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "shapeGroup",
+                            "do_objectID": "EF8C3E96-49BB-40A4-90D1-8448823C0782",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 10,
+                                "width": 10,
+                                "x": 3,
+                                "y": 2.321067811865476
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 2,
+                            "name": "Mask",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 45,
+                            "resizingType": 0,
+                            "rotation": -45,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "borders": [
+                                    {
+                                        "_class": "border",
+                                        "isEnabled": false,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.592,
+                                            "green": 0.592,
+                                            "red": 0.592
+                                        },
+                                        "fillType": 0,
+                                        "position": 1,
+                                        "thickness": 1
+                                    }
+                                ],
+                                "endDecorationType": 0,
+                                "fills": [
+                                    {
+                                        "_class": "fill",
+                                        "isEnabled": true,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.847,
+                                            "green": 0.847,
+                                            "red": 0.847
+                                        },
+                                        "fillType": 0,
+                                        "noiseIndex": 0,
+                                        "noiseIntensity": 0,
+                                        "patternFillType": 1,
+                                        "patternTileScale": 1
+                                    }
+                                ],
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "hasClickThrough": false,
+                            "layers": [
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "1216F20A-9205-4FE5-9E05-6E922CCED9C9",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 10,
+                                        "x": 0,
+                                        "y": 9
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": 0,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                },
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "8BF774E2-E0F4-41A5-ABFE-97D8E5AEFE95",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 10,
+                                        "x": 4.5,
+                                        "y": 4.5
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle Copy",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": -90,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                }
+                            ],
+                            "clippingMaskMode": 0,
+                            "hasClippingMask": true,
+                            "windingRule": 1
+                        },
+                        {
+                            "_class": "symbolInstance",
+                            "do_objectID": "0F06C90B-23B0-4B25-BF2B-666DB2640A5D",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 10,
+                                "width": 14,
+                                "x": 1,
+                                "y": 5
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "colors/primary",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "endDecorationType": 0,
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "horizontalSpacing": 0,
+                            "overrideValues": [],
+                            "scale": 0,
+                            "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
+                            "verticalSpacing": 0,
+                            "overrides": {}
+                        }
+                    ]
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": false,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "resizesContent": false,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInInstance": false,
+            "symbolID": "A456CD1B-7E41-438E-A160-E4B297D76B0C",
+            "changeIdentifier": 95
+        },
+        {
+            "_class": "symbolMaster",
+            "do_objectID": "560DD7AA-6CC2-4EFB-884A-29C0B4E34E0C",
+            "exportOptions": {
+                "_class": "exportOptions",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "constrainProportions": false,
+                "height": 10,
+                "width": 18,
+                "x": 160,
+                "y": 0
+            },
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "various/unfold-arrow-large",
+            "nameIsFixed": true,
+            "resizingConstraint": 63,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": true,
+            "style": {
+                "_class": "style",
+                "endDecorationType": 0,
+                "miterLimit": 10,
+                "startDecorationType": 0
+            },
+            "hasClickThrough": true,
+            "layers": [
+                {
+                    "_class": "group",
+                    "do_objectID": "89FFF6AC-5468-4483-9154-5A0F38813BC1",
+                    "exportOptions": {
+                        "_class": "exportOptions",
+                        "exportFormats": [],
+                        "includedLayerIds": [],
+                        "layerOptions": 0,
+                        "shouldTrim": false
+                    },
+                    "frame": {
+                        "_class": "rect",
+                        "constrainProportions": false,
+                        "height": 18,
+                        "width": 18,
+                        "x": 0,
+                        "y": -8
+                    },
+                    "isFlippedHorizontal": false,
+                    "isFlippedVertical": false,
+                    "isLocked": false,
+                    "isVisible": true,
+                    "layerListExpandedType": 2,
+                    "name": "colors/primary",
+                    "nameIsFixed": false,
+                    "resizingConstraint": 63,
+                    "resizingType": 0,
+                    "rotation": 0,
+                    "shouldBreakMaskChain": false,
+                    "style": {
+                        "_class": "style",
+                        "endDecorationType": 0,
+                        "miterLimit": 10,
+                        "startDecorationType": 0
+                    },
+                    "hasClickThrough": false,
+                    "layers": [
+                        {
+                            "_class": "shapeGroup",
+                            "do_objectID": "25B95E7B-79D9-4F17-849E-442B5C5C0052",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 12,
+                                "width": 12,
+                                "x": 3,
+                                "y": 2.82528152682646
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 2,
+                            "name": "Mask",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 45,
+                            "resizingType": 0,
+                            "rotation": -45,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "borders": [
+                                    {
+                                        "_class": "border",
+                                        "isEnabled": false,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.592,
+                                            "green": 0.592,
+                                            "red": 0.592
+                                        },
+                                        "fillType": 0,
+                                        "position": 1,
+                                        "thickness": 1
+                                    }
+                                ],
+                                "endDecorationType": 0,
+                                "fills": [
+                                    {
+                                        "_class": "fill",
+                                        "isEnabled": true,
+                                        "color": {
+                                            "_class": "color",
+                                            "alpha": 1,
+                                            "blue": 0.847,
+                                            "green": 0.847,
+                                            "red": 0.847
+                                        },
+                                        "fillType": 0,
+                                        "noiseIndex": 0,
+                                        "noiseIntensity": 0,
+                                        "patternFillType": 1,
+                                        "patternTileScale": 1
+                                    }
+                                ],
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "hasClickThrough": false,
+                            "layers": [
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "79334630-597B-4536-B40D-4174F18E0E01",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 12,
+                                        "x": 5.5,
+                                        "y": 5.5
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Mask",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": -90,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                },
+                                {
+                                    "_class": "rectangle",
+                                    "do_objectID": "A3D1B3D6-CA4C-46B2-BE0A-49CC9C9CCF02",
+                                    "exportOptions": {
+                                        "_class": "exportOptions",
+                                        "exportFormats": [],
+                                        "includedLayerIds": [],
+                                        "layerOptions": 0,
+                                        "shouldTrim": false
+                                    },
+                                    "frame": {
+                                        "_class": "rect",
+                                        "constrainProportions": false,
+                                        "height": 1,
+                                        "width": 12,
+                                        "x": 0,
+                                        "y": 11
+                                    },
+                                    "isFlippedHorizontal": false,
+                                    "isFlippedVertical": false,
+                                    "isLocked": false,
+                                    "isVisible": true,
+                                    "layerListExpandedType": 0,
+                                    "name": "Rectangle",
+                                    "nameIsFixed": false,
+                                    "resizingConstraint": 45,
+                                    "resizingType": 0,
+                                    "rotation": 0,
+                                    "shouldBreakMaskChain": false,
+                                    "booleanOperation": 0,
+                                    "edited": false,
+                                    "isClosed": true,
+                                    "pointRadiusBehaviour": 1,
+                                    "points": [
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 0}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 0}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 0}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{1, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{1, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{1, 1}"
+                                        },
+                                        {
+                                            "_class": "curvePoint",
+                                            "cornerRadius": 0,
+                                            "curveFrom": "{0, 1}",
+                                            "curveMode": 1,
+                                            "curveTo": "{0, 1}",
+                                            "hasCurveFrom": false,
+                                            "hasCurveTo": false,
+                                            "point": "{0, 1}"
+                                        }
+                                    ],
+                                    "path": {
+                                        "_class": "path",
+                                        "isClosed": true,
+                                        "pointRadiusBehaviour": 1,
+                                        "points": [
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 0}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 0}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 0}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{1, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{1, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{1, 1}"
+                                            },
+                                            {
+                                                "_class": "curvePoint",
+                                                "cornerRadius": 0,
+                                                "curveFrom": "{0, 1}",
+                                                "curveMode": 1,
+                                                "curveTo": "{0, 1}",
+                                                "hasCurveFrom": false,
+                                                "hasCurveTo": false,
+                                                "point": "{0, 1}"
+                                            }
+                                        ]
+                                    },
+                                    "fixedRadius": 0,
+                                    "hasConvertedToNewRoundCorners": true
+                                }
+                            ],
+                            "clippingMaskMode": 0,
+                            "hasClippingMask": true,
+                            "windingRule": 1
+                        },
+                        {
+                            "_class": "symbolInstance",
+                            "do_objectID": "7F5210D9-82D8-4396-BDF8-1951E1D8358C",
+                            "exportOptions": {
+                                "_class": "exportOptions",
+                                "exportFormats": [],
+                                "includedLayerIds": [],
+                                "layerOptions": 0,
+                                "shouldTrim": false
+                            },
+                            "frame": {
+                                "_class": "rect",
+                                "constrainProportions": false,
+                                "height": 10,
+                                "width": 18,
+                                "x": 0,
+                                "y": 8
+                            },
+                            "isFlippedHorizontal": false,
+                            "isFlippedVertical": false,
+                            "isLocked": false,
+                            "isVisible": true,
+                            "layerListExpandedType": 0,
+                            "name": "colors/primary",
+                            "nameIsFixed": false,
+                            "resizingConstraint": 63,
+                            "resizingType": 0,
+                            "rotation": 0,
+                            "shouldBreakMaskChain": false,
+                            "style": {
+                                "_class": "style",
+                                "endDecorationType": 0,
+                                "miterLimit": 10,
+                                "startDecorationType": 0
+                            },
+                            "horizontalSpacing": 0,
+                            "overrideValues": [],
+                            "scale": 0,
+                            "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
+                            "verticalSpacing": 0,
+                            "overrides": {}
+                        }
+                    ]
+                }
+            ],
+            "backgroundColor": {
+                "_class": "color",
+                "alpha": 1,
+                "blue": 1,
+                "green": 1,
+                "red": 1
+            },
+            "hasBackgroundColor": false,
+            "horizontalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInExport": true,
+            "includeInCloudUpload": true,
+            "isFlowHome": false,
+            "resizesContent": false,
+            "verticalRulerData": {
+                "_class": "rulerData",
+                "base": 0,
+                "guides": []
+            },
+            "includeBackgroundColorInInstance": false,
+            "symbolID": "72FD3F54-7620-486B-8366-77786EFF8F26",
+            "changeIdentifier": 148
+        }
+    ],
+    "horizontalRulerData": {
+        "_class": "rulerData",
+        "base": -744,
+        "guides": []
+    },
+    "includeInCloudUpload": true,
+    "verticalRulerData": {
+        "_class": "rulerData",
+        "base": -642,
+        "guides": []
+    }
+}

@@ -1,6 +1,7 @@
 {
     "_class": "page",
     "do_objectID": "6C2C2421-C194-4968-B615-0A2FDF91E841",
+    "booleanOperation": 0,
     "exportOptions": {
         "_class": "exportOptions",
         "exportFormats": [],
@@ -16,6 +17,7 @@
         "x": 0,
         "y": 0
     },
+    "isFixedToViewport": false,
     "isFlippedHorizontal": false,
     "isFlippedVertical": false,
     "isLocked": false,
@@ -29,15 +31,17 @@
     "shouldBreakMaskChain": false,
     "style": {
         "_class": "style",
-        "endDecorationType": 0,
+        "endMarkerType": 0,
         "miterLimit": 10,
-        "startDecorationType": 0
+        "startMarkerType": 0,
+        "windingRule": 1
     },
     "hasClickThrough": true,
     "layers": [
         {
             "_class": "symbolInstance",
             "do_objectID": "FFDAEE1E-E5C3-4E5A-A90F-25EA8C081732",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -48,11 +52,12 @@
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
-                "height": 506,
-                "width": 758,
+                "height": 610,
+                "width": 796,
                 "x": -386,
                 "y": -410
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -66,20 +71,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 1,
             "symbolID": "2B55CD1C-4259-4B62-BE86-607F5F1C37D8",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "bitmap",
             "do_objectID": "2D6AFB45-BBA5-43E9-A0D0-257CEECCE4BD",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -92,9 +98,10 @@
                 "constrainProportions": true,
                 "height": 160,
                 "width": 640,
-                "x": -330,
+                "x": -327,
                 "y": -317
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -108,21 +115,24 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "clippingMask": "{{0, 0}, {1, 1}}",
             "fillReplacesImage": false,
             "image": {
                 "_class": "MSJSONFileReference",
                 "_ref_class": "MSImageData",
-                "_ref": "images/1135bf76c64c43b5152e2c3f271b7f490b6ea790"
-            }
+                "_ref": "images/1135bf76c64c43b5152e2c3f271b7f490b6ea790.png"
+            },
+            "intendedDPI": 0
         },
         {
             "_class": "text",
             "do_objectID": "31042BA9-0E15-4F3D-AB60-8804CE900A66",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -134,10 +144,11 @@
                 "_class": "rect",
                 "constrainProportions": false,
                 "height": 153,
-                "width": 494,
-                "x": -166,
+                "width": 498,
+                "x": -155,
                 "y": -157
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -152,45 +163,316 @@
             "style": {
                 "_class": "style",
                 "do_objectID": "0678C5B6-D14D-4A3D-A276-5F0A1C479E94",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
                 "sharedObjectID": "2F7D5BF2-7C47-463A-8308-6068D1E22911",
-                "startDecorationType": 0,
+                "startMarkerType": 0,
                 "textStyle": {
                     "_class": "textStyle",
                     "encodedAttributes": {
                         "MSAttributedStringFontAttribute": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQoAAAAAAAF1Sb2JvdG8tTWVkaXVt0hwdHh9aJGNsYXNzbmFtZVgkY2xhc3Nlc18QE05TTXV0YWJsZURpY3Rpb25hcnmjHiAhXE5TRGljdGlvbmFyeVhOU09iamVjdNIcHSMkXxAQTlNGb250RGVzY3JpcHRvcqIlIV8QEE5TRm9udERlc2NyaXB0b3JfEA9OU0tleWVkQXJjaGl2ZXLRKClUcm9vdIABAAgAEQAaACMALQAyADcAQQBHAEwAUwBwAHIAdAB7AIMAjgCRAJMAlQCYAJoAnACeALQAygDTAOEA5gDxAPoBEAEUASEBKgEvAUIBRQFYAWoBbQFyAAAAAAAAAgEAAAAAAAAAKgAAAAAAAAAAAAAAAAAAAXQ="
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "Roboto-Medium",
+                                "size": 37
+                            }
                         },
-                        "paragraphStyle": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJSZYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBcbIVUkbnVsbNcJCgsMDQ4PEBESEhQVFlYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSABIAAgAKAAiNAMoAAAAAAACNASXCj4AAAACNASXCj4AAAANIYCRkaWk5TLm9iamVjdHOggAPSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHiBYTlNPYmplY3TSHB0iI18QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyIkIF8QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJyhUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFIAWQBkAHEAfQCSAKQAtgC4ALoAvAC+AMcA0ADZAN4A6QDqAOwA8QD8AQUBDQEQARkBHgE4ATwBTwFhAWQBaQAAAAAAAAIBAAAAAAAAACkAAAAAAAAAAAAAAAAAAAFr"
-                        },
-                        "kerning": 0,
-                        "MSAttributedStringColorDictionaryAttribute": {
-                            "red": 0.2117647059,
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
                             "alpha": 1,
                             "blue": 0.2117647059,
-                            "green": 0.2117647059
+                            "green": 0.2117647059,
+                            "red": 0.2117647059
+                        },
+                        "kerning": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 50.88000106811523,
+                            "minimumLineHeight": 50.88000106811523,
+                            "paragraphSpacing": 18.5,
+                            "allowsDefaultTighteningForTruncation": 0
                         }
                     },
                     "verticalAlignment": 0
-                }
+                },
+                "windingRule": 1
             },
             "attributedString": {
-                "_class": "MSAttributedString",
-                "archivedAttributedString": {
-                    "_archive": "YnBsaXN0MDDUAQIDBAUGqapYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLAcIERIYJSYnKCk3OkBESFBRUlNUWFxoaWprbG1ub3Byc3+CiouXmJmanaGlVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoApgAOAK28QUABCAHUAbABtAGEAIABpAHMAIABhACAAZgByAGUAZQAgAGEAbgBkACAAbwBwAGUAbiAoAHMAbwB1AHIAYwBlACAAUwB5AG0AYgBvAGwAIABMAGkAYgByAGEAcgB5ACAAYgBhAHMAZQBkICgAbwBuACAAdABoAGUAIABCAHUAbABtAGEAIABDAFMAUwAgAGYAcgBhAG0AZQB3AG8AcgBrAC7SEwwUF1pOUy5vYmplY3RzohUWgASAIIAo0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtcMKissLS4vMDEyMjQ1NlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIAMgACACoAKI0AygAAAAAAAI0BJcKPgAAAAI0BJcKPgAAAA0hMMODmggAvSOzw9PlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiPT9YTlNPYmplY3TSOzxBQl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo0FDP18QEE5TUGFyYWdyYXBoU3R5bGXSDEVGR18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBSADtMZEwxJTE+iSkuAD4AQok1OgBGAEoATXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEKAAAAAAABdUm9ib3RvLU1lZGl1bdI7PFVWXxATTlNNdXRhYmxlRGljdGlvbmFyeaNVVz9cTlNEaWN0aW9uYXJ50js8WVpfEBBOU0ZvbnREZXNjcmlwdG9yols/XxAQTlNGb250RGVzY3JpcHRvctMZEwxdYiSkXl9gYYAWgBeAGIAZpGNkZWaAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/LGxsbJM61Iz/wAAAAAAAAIz/LGxsbJM61Iz/LGxsbJM610js8V3GiVz8QANMZEwx0eSSkGxwdHoAFgAaAB4AIpCB7fCOACYAhgCSAH4Ae0gxFRoGAFIAi0xkTDIOGT6JKS4APgBCiTYiAEYAjgBNeUm9ib3RvLVJlZ3VsYXLTGRMMjJEkpF5fYGGAFoAXgBiAGaSSZJSVgCWAG4AmgCeAHiM/yxsbGyTOtSM/yxsbGyTOtSM/yxsbGyTOtdI7PJucXk5TTXV0YWJsZUFycmF5o5s9P9KeDJ+gV05TLmRhdGFIBQA3ARMAAQGAKtI7PKKjXU5TTXV0YWJsZURhdGGjoqQ/Vk5TRGF0YdI7PKanXxASTlNBdHRyaWJ1dGVkU3RyaW5noqg/XxASTlNBdHRyaWJ1dGVkU3RyaW5nXxAPTlNLZXllZEFyY2hpdmVy0ausVHJvb3SAAQAIABEAGgAjAC0AMgA3AGYAbAB1AH4AkACdAKQApgCoAKoArAFPAVQBXwFiAWQBZgFoAW8BdwF8AX4BgAGCAYQBiQGLAY0BjwGRAZMBpgHIAfUB/AILAhYCIwIvAkQCVgJoAmoCbAJuAnACeQKCAosCkAKRApMCmAKjAqwCtAK3AsACxQLfAuMC9gL7AxgDGgMcAyMDJgMoAyoDLQMvAzEDMwNJA18DaAN2A3sDkQOVA6IDpwO6A70D0APXA9wD3gPgA+ID5APpA+sD7QPvA/ED8wP3A/0EAgQIBBEEGgQjBCwEMQQ0BDYEPQRCBEQERgRIBEoETwRRBFMEVQRXBFkEXgRgBGIEaQRsBG4EcARzBHUEdwR5BIgEjwSUBJYEmASaBJwEoQSjBKUEpwSpBKsEtAS9BMYEywTaBN4E4wTrBPQE9gT7BQkFDQUUBRkFLgUxBUYFWAVbBWAAAAAAAAACAQAAAAAAAACtAAAAAAAAAAAAAAAAAAAFYg=="
-                }
+                "_class": "attributedString",
+                "string": "Bulma is a free and open\u2028source Symbol Library based\u2028on the Bulma CSS framework.",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 5,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Medium",
+                                    "size": 37
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 50.88000106811523,
+                                "minimumLineHeight": 50.88000106811523,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    },
+                    {
+                        "_class": "stringAttribute",
+                        "location": 5,
+                        "length": 55,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 37
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 50.88000106811523,
+                                "minimumLineHeight": 50.88000106811523,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    },
+                    {
+                        "_class": "stringAttribute",
+                        "location": 60,
+                        "length": 19,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Medium",
+                                    "size": 37
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 50.88000106811523,
+                                "minimumLineHeight": 50.88000106811523,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    },
+                    {
+                        "_class": "stringAttribute",
+                        "location": 79,
+                        "length": 1,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 37
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 50.88000106811523,
+                                "minimumLineHeight": 50.88000106811523,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    }
+                ]
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "dontSynchroniseWithSymbol": false,
-            "glyphBounds": "{{1, 9}, {490, 132}}",
+            "glyphBounds": "{{1, 11}, {493, 132}}",
+            "lineSpacingBehaviour": 2,
+            "textBehaviour": 0
+        },
+        {
+            "_class": "text",
+            "do_objectID": "D26ECDA0-91B7-435F-B503-9C11BA68DEA7",
+            "booleanOperation": 0,
+            "exportOptions": {
+                "_class": "exportOptions",
+                "do_objectID": "E554F8BA-0FA2-419E-BB4C-5C4ECFBABF61",
+                "exportFormats": [],
+                "includedLayerIds": [],
+                "layerOptions": 0,
+                "shouldTrim": false
+            },
+            "frame": {
+                "_class": "rect",
+                "do_objectID": "01EAB3AE-8363-484F-8B29-302051C0B408",
+                "constrainProportions": false,
+                "height": 26,
+                "width": 474,
+                "x": -149,
+                "y": 32
+            },
+            "isFixedToViewport": false,
+            "isFlippedHorizontal": false,
+            "isFlippedVertical": false,
+            "isLocked": false,
+            "isVisible": true,
+            "layerListExpandedType": 0,
+            "name": "This library github.",
+            "nameIsFixed": false,
+            "resizingConstraint": 47,
+            "resizingType": 0,
+            "rotation": 0,
+            "shouldBreakMaskChain": false,
+            "style": {
+                "_class": "style",
+                "do_objectID": "105D30A4-5FC7-4A0E-BFE3-D0EDDD579F7C",
+                "endMarkerType": 0,
+                "miterLimit": 10,
+                "startMarkerType": 0,
+                "textStyle": {
+                    "_class": "textStyle",
+                    "do_objectID": "B836A38E-15CC-479B-B628-65E0162B7F07",
+                    "encodedAttributes": {
+                        "MSAttributedStringFontAttribute": {
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "Roboto-Regular",
+                                "size": 20
+                            }
+                        },
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
+                            "alpha": 1,
+                            "blue": 0.2117647059,
+                            "green": 0.2117647059,
+                            "red": 0.2117647059
+                        },
+                        "kerning": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "paragraphSpacing": 18.5,
+                            "allowsDefaultTighteningForTruncation": 0
+                        }
+                    },
+                    "verticalAlignment": 0
+                },
+                "windingRule": 1
+            },
+            "attributedString": {
+                "_class": "attributedString",
+                "string": "This library github.com/joachimesque/Bulma.sketch",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 13,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 20
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    },
+                    {
+                        "_class": "stringAttribute",
+                        "location": 13,
+                        "length": 36,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 20
+                                }
+                            },
+                            "underlineStyle": 1,
+                            "kerning": 0,
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.862253725528717,
+                                "green": 0.4499374032020569,
+                                "red": 0.1980114579200745
+                            },
+                            "strikethroughStyle": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    }
+                ]
+            },
+            "automaticallyDrawOnUnderlyingPath": false,
+            "dontSynchroniseWithSymbol": false,
+            "glyphBounds": "{{0, 5}, {472, 21}}",
             "lineSpacingBehaviour": 2,
             "textBehaviour": 0
         },
         {
             "_class": "text",
             "do_objectID": "E0377C12-2A0B-4642-A433-00AC1D3A83B4",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -201,17 +483,18 @@
             "frame": {
                 "_class": "rect",
                 "constrainProportions": false,
-                "height": 24,
-                "width": 481,
-                "x": -160,
-                "y": 32
+                "height": 26,
+                "width": 192,
+                "x": -149,
+                "y": 72
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
             "isVisible": true,
             "layerListExpandedType": 0,
-            "name": "more info on github.",
+            "name": "Bulma CSS bulma.io/",
             "nameIsFixed": false,
             "resizingConstraint": 47,
             "resizingType": 0,
@@ -219,38 +502,105 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0,
+                "startMarkerType": 0,
                 "textStyle": {
                     "_class": "textStyle",
                     "encodedAttributes": {
                         "MSAttributedStringFontAttribute": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF5Sb2JvdG8tUmVndWxhctIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDiAOcA8gD7AREBFQEiASsBMAFDAUYBWQFrAW4BcwAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAF1"
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "Roboto-Regular",
+                                "size": 20
+                            }
                         },
-                        "paragraphStyle": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGICFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBMXHVUkbnVsbNUJCgsMDQ4PEBERXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNWJGNsYXNzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0cyNAMoAAAAAAAIAAgASAAoAC0hQLFRZaTlMub2JqZWN0c6CAA9IYGRobWiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaIaHFhOU09iamVjdNIYGR4fXxAQTlNQYXJhZ3JhcGhTdHlsZaIeHF8QD05TS2V5ZWRBcmNoaXZlctEiI1Ryb290gAEACAARABoAIwAtADIANwA9AEMATgBjAG4AdQCCAI4AlwCZAJsAnQCfAKQArwCwALIAtwDCAMsA0wDWAN8A5AD3APoBDAEPARQAAAAAAAACAQAAAAAAAAAkAAAAAAAAAAAAAAAAAAABFg=="
-                        },
-                        "kerning": 0,
-                        "MSAttributedStringColorDictionaryAttribute": {
-                            "red": 0.2117647059,
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
                             "alpha": 1,
                             "blue": 0.2117647059,
-                            "green": 0.2117647059
+                            "green": 0.2117647059,
+                            "red": 0.2117647059
+                        },
+                        "kerning": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "paragraphSpacing": 18.5,
+                            "allowsDefaultTighteningForTruncation": 0
                         }
                     },
                     "verticalAlignment": 0
-                }
+                },
+                "windingRule": 1
             },
             "attributedString": {
-                "_class": "MSAttributedString",
-                "archivedAttributedString": {
-                    "_archive": "YnBsaXN0MDDUAQIDBAUGn6BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QLAcIERIYJSYnKCkzNjw/Q0tMTU5PU1djZGVmZ2hpamttbn5/gIyNjo+Qk5ebVSRudWxs1AkKCwwNDg8QWE5TU3RyaW5nXxAPTlNBdHRyaWJ1dGVJbmZvXE5TQXR0cmlidXRlc1YkY2xhc3OAAoApgAOAK18QMW1vcmUgaW5mbyBvbiBnaXRodWIuY29tL2pvYWNoaW1lc3F1ZS9CdWxtYS5za2V0Y2jSEwwUF1pOUy5vYmplY3RzohUWgASAIIAo0xkTDBofJFdOUy5rZXlzpBscHR6ABYAGgAeACKQgISIjgAmADYAVgB+AHl8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtUqKwwsLS4vMDExXxASTlNQYXJhZ3JhcGhTcGFjaW5nWk5TVGFiU3RvcHNcTlNUZXh0QmxvY2tzW05TVGV4dExpc3RzI0AygAAAAAAAgACADIAKgArSEww0NaCAC9I3ODk6WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI5O1hOU09iamVjdNI3OD0+XxAQTlNQYXJhZ3JhcGhTdHlsZaI9O9IMQEFCXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xkTDERHSqJFRoAPgBCiSEmAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNANAAAAAAAAF5Sb2JvdG8tUmVndWxhctI3OFBRXxATTlNNdXRhYmxlRGljdGlvbmFyeaNQUjtcTlNEaWN0aW9uYXJ50jc4VFVfEBBOU0ZvbnREZXNjcmlwdG9yolY7XxAQTlNGb250RGVzY3JpcHRvctMZEwxYXSSkWVpbXIAWgBeAGIAZpF5fYGGAGoAbgByAHYAeU3JlZFVhbHBoYVRibHVlVWdyZWVuIz/LGxsbJM61Iz/wAAAAAAAAIz/LGxsbJM61Iz/LGxsbJM610jc4UmyiUjsQANMZEwxvdiSmHRxycxsegAeABoAhgCKABYAIpnchI3ogI4AjgA2AH4AngAmAH4AeXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5l0xkTDIGGJKRZWltcgBaAF4AYgBmkh1+JioAkgBuAJYAmgB4jP8lYcIAAAAAjP+uXlSAAAAAjP9zLxkAAAAAQAdI3OJGSXk5TTXV0YWJsZUFycmF5o5E5O9KUDJWWV05TLmRhdGFEDQAkAYAq0jc4mJldTlNNdXRhYmxlRGF0YaOYmjtWTlNEYXRh0jc4nJ1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeinjtfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRoaJUcm9vdIABAAgAEQAaACMALQAyADcAZgBsAHUAfgCQAJ0ApACmAKgAqgCsAOAA5QDwAPMA9QD3APkBAAEIAQ0BDwERARMBFQEaARwBHgEgASIBJAE3AVkBhgGNAZgBrQG4AcUB0QHaAdwB3gHgAeIB5wHoAeoB7wH6AgMCCwIOAhcCHAIvAjICNwJUAlYCWAJfAmICZAJmAmkCawJtAm8ChQKbAqQCswK4As4C0gLfAuQC9wL6Aw0DFAMZAxsDHQMfAyEDJgMoAyoDLAMuAzADNAM6Az8DRQNOA1cDYANpA24DcQNzA3oDgQODA4UDhwOJA4sDjQOUA5YDmAOaA5wDngOgA6IDtAPAA8cDzAPOA9AD0gPUA9kD2wPdA98D4QPjA+wD9QP+BAAEBQQUBBgEHQQlBCoELAQxBD8EQwRKBE8EZARnBHwEjgSRBJYAAAAAAAACAQAAAAAAAACjAAAAAAAAAAAAAAAAAAAEmA=="
-                }
+                "_class": "attributedString",
+                "string": "Bulma CSS bulma.io/",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 10,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 20
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    },
+                    {
+                        "_class": "stringAttribute",
+                        "location": 10,
+                        "length": 9,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Regular",
+                                    "size": 20
+                                }
+                            },
+                            "underlineStyle": 1,
+                            "kerning": 0,
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.862253725528717,
+                                "green": 0.4499374032020569,
+                                "red": 0.1980114579200745
+                            },
+                            "strikethroughStyle": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "paragraphSpacing": 18.5,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    }
+                ]
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "dontSynchroniseWithSymbol": false,
-            "glyphBounds": "{{1, 3}, {479, 21}}",
+            "glyphBounds": "{{1, 5}, {190, 18}}",
             "lineSpacingBehaviour": 2,
             "textBehaviour": 0
         }

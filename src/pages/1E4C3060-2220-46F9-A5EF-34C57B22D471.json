@@ -1,6 +1,7 @@
 {
     "_class": "page",
     "do_objectID": "1E4C3060-2220-46F9-A5EF-34C57B22D471",
+    "booleanOperation": 0,
     "exportOptions": {
         "_class": "exportOptions",
         "exportFormats": [],
@@ -16,6 +17,7 @@
         "x": 0,
         "y": 0
     },
+    "isFixedToViewport": false,
     "isFlippedHorizontal": false,
     "isFlippedVertical": false,
     "isLocked": false,
@@ -29,15 +31,17 @@
     "shouldBreakMaskChain": false,
     "style": {
         "_class": "style",
-        "endDecorationType": 0,
+        "endMarkerType": 0,
         "miterLimit": 10,
-        "startDecorationType": 0
+        "startMarkerType": 0,
+        "windingRule": 1
     },
     "hasClickThrough": true,
     "layers": [
         {
             "_class": "text",
             "do_objectID": "268B9AD6-7063-471C-AB20-B39E48B7329B",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -53,6 +57,7 @@
                 "x": -743,
                 "y": -487
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -67,35 +72,76 @@
             "style": {
                 "_class": "style",
                 "do_objectID": "8AE7A7B1-ABCA-47B7-B4E8-86DEA90154FF",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
                 "sharedObjectID": "08DBB614-BA38-42FC-AD3E-AD9DE65318E7",
-                "startDecorationType": 0,
+                "startMarkerType": 0,
                 "textStyle": {
                     "_class": "textStyle",
                     "encodedAttributes": {
                         "MSAttributedStringFontAttribute": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQAAAAAAAAFtSb2JvdG8tQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "Roboto-Bold",
+                                "size": 32
+                            }
                         },
-                        "paragraphStyle": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBYaIFUkbnVsbNcJCgsMDQ4PEBESEhQVFVYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSABIAAgAKAAiNAOAAAAAAAACNAQgAAAAAAANIXCRgZWk5TLm9iamVjdHOggAPSGxwdHlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHR9YTlNPYmplY3TSGxwhIl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyEjH18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFIAWQBkAHEAfQCSAKQAtgC4ALoAvAC+AMcA0ADVAOAA4QDjAOgA8wD8AQQBBwEQARUBLwEzAUYBWAFbAWAAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABYg=="
-                        },
-                        "kerning": 0,
-                        "MSAttributedStringColorDictionaryAttribute": {
-                            "red": 0.2117647059,
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
                             "alpha": 1,
                             "blue": 0.2117647059,
-                            "green": 0.2117647059
+                            "green": 0.2117647059,
+                            "red": 0.2117647059
+                        },
+                        "kerning": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 36,
+                            "minimumLineHeight": 36,
+                            "paragraphSpacing": 24,
+                            "allowsDefaultTighteningForTruncation": 0
                         }
                     },
                     "verticalAlignment": 0
-                }
+                },
+                "windingRule": 1
             },
             "attributedString": {
-                "_class": "MSAttributedString",
-                "archivedAttributedString": {
-                    "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi8yODxASElKS0xQVGBhYmNkZWZnaGprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxAXAEUAbABlAG0AZQBuAHQAcwAgICIAIABOAG8AdABpAGYAaQBjAGEAdABpAG8AbtMREgoTGB1XTlMua2V5c1pOUy5vYmplY3RzpBQVFheABIAFgAaAB6QZGhscgAiADIAUgB6AHV8QEE5TUGFyYWdyYXBoU3R5bGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAqTVNBdHRyaWJ1dGVkU3RyaW5nQ29sb3JEaWN0aW9uYXJ5QXR0cmlidXRlVk5TS2VybtcKIyQlJicoKSorKy0uLlpOU1RhYlN0b3BzXE5TVGV4dEJsb2Nrc1tOU1RleHRMaXN0c18QEk5TUGFyYWdyYXBoU3BhY2luZ18QD05TTWF4TGluZUhlaWdodF8QD05TTWluTGluZUhlaWdodIALgACACYAJI0A4AAAAAAAAI0BCAAAAAAAA0hIKMDGggArSMzQ1NlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiNTdYTlNPYmplY3TSMzQ5Ol8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlozk7N18QEE5TUGFyYWdyYXBoU3R5bGXSCj0+P18QGk5TRm9udERlc2NyaXB0b3JBdHRyaWJ1dGVzgBOADdMREgpBREeiQkOADoAPokVGgBCAEYASXxATTlNGb250U2l6ZUF0dHJpYnV0ZV8QE05TRm9udE5hbWVBdHRyaWJ1dGUjQEAAAAAAAABbUm9ib3RvLUJvbGTSMzRNTl8QE05TTXV0YWJsZURpY3Rpb25hcnmjTU83XE5TRGljdGlvbmFyedIzNFFSXxAQTlNGb250RGVzY3JpcHRvcqJTN18QEE5TRm9udERlc2NyaXB0b3LTERIKVVodpFZXWFmAFYAWgBeAGKRbXF1egBmAGoAbgByAHVNyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yxsbGyTOtSM/8AAAAAAAACM/yxsbGyTOtSM/yxsbGyTOtdIzNE9pok83EADSMzRsbV8QEk5TQXR0cmlidXRlZFN0cmluZ6JuN18QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBaAGAAZwBwAHcAhACGAIgAigC7AMIAygDVANoA3ADeAOAA4gDnAOkA6wDtAO8A8QEEASYBUwFaAWkBdAGBAY0BogG0AcYByAHKAcwBzgHXAeAB5QHmAegB7QH4AgECCQIMAhUCGgI0AjgCSwJQAm0CbwJxAngCewJ9An8CggKEAoYCiAKeArQCvQLJAs4C5ALoAvUC+gMNAxADIwMqAy8DMQMzAzUDNwM8Az4DQANCA0QDRgNKA1ADVQNbA2QDbQN2A38DhAOHA4kDjgOjA6YDuwPNA9AD1QAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAAPX"
-                }
+                "_class": "attributedString",
+                "string": "Elements \u2022 Notification",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 23,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Bold",
+                                    "size": 32
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 36,
+                                "minimumLineHeight": 36,
+                                "paragraphSpacing": 24,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    }
+                ]
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "dontSynchroniseWithSymbol": false,
@@ -106,6 +152,7 @@
         {
             "_class": "symbolInstance",
             "do_objectID": "4BFF0BBF-B3AA-4ED6-888C-B2A050621047",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -121,6 +168,7 @@
                 "x": -743,
                 "y": -427
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -134,20 +182,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 0,
             "symbolID": "0A81BBA0-1FF7-4548-A30D-2F530AE7DD55",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "group",
             "do_objectID": "A32E452A-9CAD-43BF-A76E-92503531A87A",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -163,6 +212,7 @@
                 "x": -743,
                 "y": -227
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -176,15 +226,17 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": false,
             "layers": [
                 {
                     "_class": "symbolInstance",
                     "do_objectID": "8AF65EF4-A5E8-4506-9FFF-394B202F8977",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -200,6 +252,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -213,9 +266,10 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "horizontalSpacing": 0,
                     "overrideValues": [
@@ -227,16 +281,12 @@
                     ],
                     "scale": 0,
                     "symbolID": "F47A4DDD-197C-4B8B-A5F2-0EBBD763475A",
-                    "verticalSpacing": 0,
-                    "overrides": {
-                        "615855C1-CE6D-4840-9E84-213ED6886B48": {
-                            "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853"
-                        }
-                    }
+                    "verticalSpacing": 0
                 },
                 {
                     "_class": "text",
                     "do_objectID": "EA6D7B90-3BB2-4A02-80BB-3CBCBF8210B8",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -252,6 +302,7 @@
                         "x": 24,
                         "y": 18
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -265,16 +316,19 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0,
+                        "startMarkerType": 0,
                         "textStyle": {
                             "_class": "textStyle",
                             "encodedAttributes": {
                                 "MSAttributedStringFontAttribute": {
-                                    "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEEZpcmFTYW5zLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "FiraSans-Regular",
+                                        "size": 16
+                                    }
                                 },
-                                "kerning": 0,
                                 "MSAttributedStringColorAttribute": {
                                     "_class": "color",
                                     "alpha": 1,
@@ -282,18 +336,171 @@
                                     "green": 1,
                                     "red": 1
                                 },
+                                "kerning": 0,
                                 "paragraphStyle": {
-                                    "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAOAAAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24,
+                                    "allowsDefaultTighteningForTruncation": 0
                                 }
                             },
                             "verticalAlignment": 0
-                        }
+                        },
+                        "windingRule": 1
                     },
                     "attributedString": {
-                        "_class": "MSAttributedString",
-                        "archivedAttributedString": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGwMFYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QKwcIERIZJicoKSo1OD5CRk5PUFFSVlpmZ2hpamttbnp9hYaSoqOksLG0uLxVJG51bGzUCQoLDA0ODxBYTlNTdHJpbmdfEA9OU0F0dHJpYnV0ZUluZm9cTlNBdHRyaWJ1dGVzViRjbGFzc4ACgCiAA4AqXxEBH0xvcmVtIGlwc3VtIGRvbG9yIHNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQgbG9yZW0gaXBzdW0gZG9sb3IuIFBlbGxlbnRlc3F1ZSByaXN1cyBtaSwgdGVtcHVzIHF1aXMgcGxhY2VyYXQgdXQsIHBvcnRhIG5lYyBudWxsYS4gVmVzdGlidWx1bSByaG9uY3VzIGFjIGV4IHNpdCBhbWV0IGZyaW5naWxsYS4gTnVsbGFtIGdyYXZpZGEgcHVydXMgZGlhbSwgZXQgZGljdHVtIGZlbGlzIHZlbmVuYXRpcyBlZmZpY2l0dXIuIFNpdCBhbWV0LCBjb25zZWN0ZXR1ciBhZGlwaXNjaW5nIGVsaXQg0hMMFBhaTlMub2JqZWN0c6MVFheABIAdgCKAJ9MaEwwbICVXTlMua2V5c6QcHR4fgAWABoAHgAikISIjJIAJgA2AFYAcgBtfEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7WKywtLgwvMDEyMTQyWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACACiNAOAAAAAAAAIAKgAzSEww2N6CAC9I5Ojs8WiRjbGFzc25hbWVYJGNsYXNzZXNXTlNBcnJheaI7PVhOU09iamVjdNI5Oj9AXxAXTlNNdXRhYmxlUGFyYWdyYXBoU3R5bGWjP0E9XxAQTlNQYXJhZ3JhcGhTdHlsZdIMQ0RFXxAaTlNGb250RGVzY3JpcHRvckF0dHJpYnV0ZXOAFIAO0xoTDEdKTaJISYAPgBCiS0yAEYASgBNfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEEZpcmFTYW5zLVJlZ3VsYXLSOTpTVF8QE05TTXV0YWJsZURpY3Rpb25hcnmjU1U9XE5TRGljdGlvbmFyedI5OldYXxAQTlNGb250RGVzY3JpcHRvcqJZPV8QEE5TRm9udERlc2NyaXB0b3LTGhMMW2AlpFxdXl+AFoAXgBiAGaRhYWFhgBqAGoAagBqAG1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/8AAAAAAAANI5OlVsolU9EADTGhMMb3QlpBwdHh+ABYAGgAeACKQhdnckgAmAHoAhgByAG9IMQ0R8gBSAH9MaEwx+gU2iSEmAD4AQokuDgBGAIIATXxARRmlyYVNhbnMtU2VtaUJvbGTTGhMMh4wlpFxdXl+AFoAXgBiAGaRhYWFhgBqAGoAagBqAG9MaEwyTmiWmHh2WlxwfgAeABoAjgCSABYAIppsiJJ4hJIAlgA2AHIAmgAmAHIAbXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5l0xoTDKWqJaRcXV5fgBaAF4AYgBmkYWFhYYAagBqAGoAagBsQAdI5OrKzXk5TTXV0YWJsZUFycmF5o7I7PdK1DLa3V05TLmRhdGFKSwAVAX4ADwIyAIAp0jk6ubpdTlNNdXRhYmxlRGF0YaO5uz1WTlNEYXRh0jk6vb5fEBJOU0F0dHJpYnV0ZWRTdHJpbmeivz1fEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRwsNUcm9vdIABAAgAEQAaACMALQAyADcAZQBrAHQAfQCPAJwAowClAKcAqQCrAc4B0wHeAeIB5AHmAegB6gHxAfkB/gIAAgICBAIGAgsCDQIPAhECEwIVAigCSgJ3An4CiwKWAqICtALBAtMC1QLXAuAC4gLkAukC6gLsAvEC/AMFAw0DEAMZAx4DOAM8A08DVANxA3MDdQN8A38DgQODA4YDiAOKA4wDogO4A8ED1APZA+8D8wQABAUEGAQbBC4ENQQ6BDwEPgRABEIERwRJBEsETQRPBFEEVQRbBGAEZgRvBHQEdwR5BIAEhQSHBIkEiwSNBJIElASWBJgEmgScBKEEowSlBKwErwSxBLMEtgS4BLoEvATQBNcE3ATeBOAE4gTkBOkE6wTtBO8E8QTzBPoFAQUDBQUFBwUJBQsFDQUUBRYFGAUaBRwFHgUgBSIFNAVABUcFTAVOBVAFUgVUBVkFWwVdBV8FYQVjBWUFagV5BX0FggWKBZUFlwWcBaoFrgW1BboFzwXSBecF+QX8BgEAAAAAAAACAQAAAAAAAADEAAAAAAAAAAAAAAAAAAAGAw=="
-                        }
+                        "_class": "attributedString",
+                        "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor. Pellentesque risus mi, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum felis venenatis efficitur. Sit amet, consectetur adipiscing elit ",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 75,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-Regular",
+                                            "size": 16
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "kerning": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            },
+                            {
+                                "_class": "stringAttribute",
+                                "location": 75,
+                                "length": 21,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-SemiBold",
+                                            "size": 16
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "kerning": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            },
+                            {
+                                "_class": "stringAttribute",
+                                "location": 96,
+                                "length": 126,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-Regular",
+                                            "size": 16
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "kerning": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            },
+                            {
+                                "_class": "stringAttribute",
+                                "location": 222,
+                                "length": 15,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-Regular",
+                                            "size": 16
+                                        }
+                                    },
+                                    "underlineStyle": 1,
+                                    "kerning": 0,
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "strikethroughStyle": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            },
+                            {
+                                "_class": "stringAttribute",
+                                "location": 237,
+                                "length": 50,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-Regular",
+                                            "size": 16
+                                        }
+                                    },
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 1,
+                                        "green": 1,
+                                        "red": 1
+                                    },
+                                    "kerning": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            }
+                        ]
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,
@@ -306,6 +513,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "1BED5AA6-1EE6-4402-B8E6-5547CA1A4037",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -321,6 +529,7 @@
                 "x": -143,
                 "y": -487
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -334,15 +543,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": false,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "D2C93C35-C811-4AA0-A208-A5BCA4F2E749",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -358,6 +569,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -371,15 +583,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "group",
                             "do_objectID": "E1149237-3237-4A0D-B681-FD938A673DC6",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -395,6 +609,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -408,15 +623,17 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "shapeGroup",
                                     "do_objectID": "9E3B812B-F486-4F97-86DC-E511203CDFDE",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -432,6 +649,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -461,7 +679,7 @@
                                                 "thickness": 1
                                             }
                                         ],
-                                        "endDecorationType": 0,
+                                        "endMarkerType": 0,
                                         "fills": [
                                             {
                                                 "_class": "fill",
@@ -481,13 +699,15 @@
                                             }
                                         ],
                                         "miterLimit": 10,
-                                        "startDecorationType": 0
+                                        "startMarkerType": 0,
+                                        "windingRule": 1
                                     },
                                     "hasClickThrough": false,
                                     "layers": [
                                         {
                                             "_class": "rectangle",
                                             "do_objectID": "07D8F611-642F-4467-8FE3-FD69D83C336A",
+                                            "booleanOperation": -1,
                                             "exportOptions": {
                                                 "_class": "exportOptions",
                                                 "exportFormats": [],
@@ -503,6 +723,7 @@
                                                 "x": 0,
                                                 "y": 0
                                             },
+                                            "isFixedToViewport": false,
                                             "isFlippedHorizontal": false,
                                             "isFlippedVertical": false,
                                             "isLocked": false,
@@ -514,7 +735,6 @@
                                             "resizingType": 0,
                                             "rotation": 0,
                                             "shouldBreakMaskChain": false,
-                                            "booleanOperation": -1,
                                             "edited": false,
                                             "isClosed": true,
                                             "pointRadiusBehaviour": 1,
@@ -560,53 +780,6 @@
                                                     "point": "{0, 1}"
                                                 }
                                             ],
-                                            "path": {
-                                                "_class": "path",
-                                                "isClosed": true,
-                                                "pointRadiusBehaviour": 1,
-                                                "points": [
-                                                    {
-                                                        "_class": "curvePoint",
-                                                        "cornerRadius": 5,
-                                                        "curveFrom": "{0, 0}",
-                                                        "curveMode": 1,
-                                                        "curveTo": "{0, 0}",
-                                                        "hasCurveFrom": false,
-                                                        "hasCurveTo": false,
-                                                        "point": "{0, 0}"
-                                                    },
-                                                    {
-                                                        "_class": "curvePoint",
-                                                        "cornerRadius": 5,
-                                                        "curveFrom": "{1, 0}",
-                                                        "curveMode": 1,
-                                                        "curveTo": "{1, 0}",
-                                                        "hasCurveFrom": false,
-                                                        "hasCurveTo": false,
-                                                        "point": "{1, 0}"
-                                                    },
-                                                    {
-                                                        "_class": "curvePoint",
-                                                        "cornerRadius": 5,
-                                                        "curveFrom": "{1, 1}",
-                                                        "curveMode": 1,
-                                                        "curveTo": "{1, 1}",
-                                                        "hasCurveFrom": false,
-                                                        "hasCurveTo": false,
-                                                        "point": "{1, 1}"
-                                                    },
-                                                    {
-                                                        "_class": "curvePoint",
-                                                        "cornerRadius": 5,
-                                                        "curveFrom": "{0, 1}",
-                                                        "curveMode": 1,
-                                                        "curveTo": "{0, 1}",
-                                                        "hasCurveFrom": false,
-                                                        "hasCurveTo": false,
-                                                        "point": "{0, 1}"
-                                                    }
-                                                ]
-                                            },
                                             "fixedRadius": 5,
                                             "hasConvertedToNewRoundCorners": true
                                         }
@@ -618,6 +791,7 @@
                                 {
                                     "_class": "symbolInstance",
                                     "do_objectID": "615855C1-CE6D-4840-9E84-213ED6886B48",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -633,6 +807,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -646,22 +821,23 @@
                                     "shouldBreakMaskChain": false,
                                     "style": {
                                         "_class": "style",
-                                        "endDecorationType": 0,
+                                        "endMarkerType": 0,
                                         "miterLimit": 10,
-                                        "startDecorationType": 0
+                                        "startMarkerType": 0,
+                                        "windingRule": 1
                                     },
                                     "horizontalSpacing": 0,
                                     "overrideValues": [],
                                     "scale": 0,
                                     "symbolID": "C1A9DB77-2182-4A7B-A734-B3B90F90042F",
-                                    "verticalSpacing": 0,
-                                    "overrides": {}
+                                    "verticalSpacing": 0
                                 }
                             ]
                         },
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "4788EC84-1732-4687-8E57-87B41630402A",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -677,6 +853,7 @@
                                 "x": 472,
                                 "y": 8.426666666666668
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -690,16 +867,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "EA383BA6-8E99-49A9-BAFC-EC3470309CCA",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -733,6 +910,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "0F439ECB-12C0-445E-922E-EEE9C610FF13",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -748,6 +926,7 @@
                 "x": 457,
                 "y": -487
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -761,15 +940,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "symbolInstance",
                     "do_objectID": "49C7EB28-3E71-4BE6-B042-A82DB9068ECC",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -785,6 +966,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -798,20 +980,21 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "horizontalSpacing": 0,
                     "overrideValues": [],
                     "scale": 0,
                     "symbolID": "F47A4DDD-197C-4B8B-A5F2-0EBBD763475A",
-                    "verticalSpacing": 0,
-                    "overrides": {}
+                    "verticalSpacing": 0
                 },
                 {
                     "_class": "text",
                     "do_objectID": "FC6D958C-9444-4E77-9B2B-7C3C9D9FA4EE",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -827,6 +1010,7 @@
                         "x": 24,
                         "y": 18
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -840,37 +1024,77 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0,
+                        "startMarkerType": 0,
                         "textStyle": {
                             "_class": "textStyle",
                             "encodedAttributes": {
-                                "underlineStyle": 0,
-                                "paragraphStyle": {
-                                    "_archive": "YnBsaXN0MDDUAQIDBAUGIiNYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBQYHlUkbnVsbNYJCgsMDQ4PEBEQExFaTlNUYWJTdG9wc1tOU1RleHRMaXN0c18QD05TTWluTGluZUhlaWdodFxOU1RleHRCbG9ja3NWJGNsYXNzXxAPTlNNYXhMaW5lSGVpZ2h0gACAAiNAOAAAAAAAAIACgATSFQ0WF1pOUy5vYmplY3RzoIAD0hkaGxxaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ohsdWE5TT2JqZWN00hkaHyBfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaMfIR1fEBBOU1BhcmFncmFwaFN0eWxlXxAPTlNLZXllZEFyY2hpdmVy0SQlVHJvb3SAAQAIABEAGgAjAC0AMgA3AD0AQwBQAFsAZwB5AIYAjQCfAKEAowCsAK4AsAC1AMAAwQDDAMgA0wDcAOQA5wDwAPUBDwETASYBOAE7AUAAAAAAAAACAQAAAAAAAAAmAAAAAAAAAAAAAAAAAAABQg=="
-                                },
-                                "strikethroughStyle": 0,
-                                "kerning": 0,
                                 "MSAttributedStringFontAttribute": {
-                                    "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAMAAAAAAAAF8QEEZpcmFTYW5zLVJlZ3VsYXLSHB0eH1okY2xhc3NuYW1lWCRjbGFzc2VzXxATTlNNdXRhYmxlRGljdGlvbmFyeaMeICFcTlNEaWN0aW9uYXJ5WE5TT2JqZWN00hwdIyRfEBBOU0ZvbnREZXNjcmlwdG9yoiUhXxAQTlNGb250RGVzY3JpcHRvcl8QD05TS2V5ZWRBcmNoaXZlctEoKVRyb290gAEACAARABoAIwAtADIANwBBAEcATABTAHAAcgB0AHsAgwCOAJEAkwCVAJgAmgCcAJ4AtADKANMA5gDrAPYA/wEVARkBJgEvATQBRwFKAV0BbwFyAXcAAAAAAAACAQAAAAAAAAAqAAAAAAAAAAAAAAAAAAABeQ=="
+                                    "_class": "fontDescriptor",
+                                    "attributes": {
+                                        "name": "FiraSans-Regular",
+                                        "size": 16
+                                    }
                                 },
+                                "underlineStyle": 0,
+                                "kerning": 0,
                                 "MSAttributedStringColorAttribute": {
                                     "_class": "color",
                                     "alpha": 1,
                                     "blue": 0.2117647059,
                                     "green": 0.2117647059,
                                     "red": 0.2117647059
+                                },
+                                "strikethroughStyle": 0,
+                                "paragraphStyle": {
+                                    "_class": "paragraphStyle",
+                                    "alignment": 0,
+                                    "maximumLineHeight": 24,
+                                    "minimumLineHeight": 24,
+                                    "allowsDefaultTighteningForTruncation": 0
                                 }
                             },
                             "verticalAlignment": 0
-                        }
+                        },
+                        "windingRule": 1
                     },
                     "attributedString": {
-                        "_class": "MSAttributedString",
-                        "archivedAttributedString": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGc3RYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIgcIDxAiIyQlJicoNDU2Nzg5Ojs8QkZOT1BRUlVZWmVoa29VJG51bGzTCQoLDA0OWE5TU3RyaW5nViRjbGFzc1xOU0F0dHJpYnV0ZXOAAoAhgANfEQEfTG9yZW0gaXBzdW0gZG9sb3Igc2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCBsb3JlbSBpcHN1bSBkb2xvci4gUGVsbGVudGVzcXVlIHJpc3VzIG1pLCB0ZW1wdXMgcXVpcyBwbGFjZXJhdCB1dCwgcG9ydGEgbmVjIG51bGxhLiBWZXN0aWJ1bHVtIHJob25jdXMgYWMgZXggc2l0IGFtZXQgZnJpbmdpbGxhLiBOdWxsYW0gZ3JhdmlkYSBwdXJ1cyBkaWFtLCBldCBkaWN0dW0gZmVsaXMgdmVuZW5hdGlzIGVmZmljaXR1ci4gU2l0IGFtZXQsIGNvbnNlY3RldHVyIGFkaXBpc2NpbmcgZWxpdCDTERIKExohV05TLmtleXNaTlMub2JqZWN0c6YUFRYXGBmABIAFgAaAB4AIgAmmGxwdHR8dgAqAFIAcgByAHYAcgBNfECpNU0F0dHJpYnV0ZWRTdHJpbmdDb2xvckRpY3Rpb25hcnlBdHRyaWJ1dGVfEB9NU0F0dHJpYnV0ZWRTdHJpbmdGb250QXR0cmlidXRlXxAPTlNTdHJpa2V0aHJvdWdoW05TVW5kZXJsaW5lXxAQTlNQYXJhZ3JhcGhTdHlsZVZOU0tlcm7TERIKKS4hpCorLC2AC4AMgA2ADqQvMDEygA+AEIARgBKAE1NyZWRVYWxwaGFUYmx1ZVVncmVlbiM/yxsbGyTOtSM/8AAAAAAAACM/yxsbGyTOtSM/yxsbGyTOtdI9Pj9AWiRjbGFzc25hbWVYJGNsYXNzZXNcTlNEaWN0aW9uYXJ5oj9BWE5TT2JqZWN00gpDREVfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AbgBXTERIKR0pNokhJgBaAF6JLTIAYgBmAGl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0AwAAAAAAAAXxAQRmlyYVNhbnMtUmVndWxhctI9PlNUXxATTlNNdXRhYmxlRGljdGlvbmFyeaNTP0HSPT5WV18QEE5TRm9udERlc2NyaXB0b3KiWEFfEBBOU0ZvbnREZXNjcmlwdG9yEADWW1xdXgpfYGFiYWRiWk5TVGFiU3RvcHNbTlNUZXh0TGlzdHNfEA9OU01pbkxpbmVIZWlnaHRcTlNUZXh0QmxvY2tzXxAPTlNNYXhMaW5lSGVpZ2h0gACAHiNAOAAAAAAAAIAegCDSEgpmZ6CAH9I9PmlqV05TQXJyYXmiaUHSPT5sbV8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxlo2xuQV8QEE5TUGFyYWdyYXBoU3R5bGXSPT5wcV8QEk5TQXR0cmlidXRlZFN0cmluZ6JyQV8QEk5TQXR0cmlidXRlZFN0cmluZ18QD05TS2V5ZWRBcmNoaXZlctF1dlRyb290gAEACAARABoAIwAtADIANwBcAGIAaQByAHkAhgCIAIoAjAGvAbYBvgHJAdAB0gHUAdYB2AHaAdwB4wHlAecB6QHrAe0B7wHxAh4CQAJSAl4CcQJ4An8ChAKGAogCigKMApECkwKVApcCmQKbAp8CpQKqArACuQLCAssC1ALZAuQC7QL6Av0DBgMLAygDKgMsAzMDNgM4AzoDPQM/A0EDQwNZA28DeAOLA5ADpgOqA68DwgPFA9gD2gPnA/ID/gQQBB0ELwQxBDMEPAQ+BEAERQRGBEgETQRVBFgEXQR3BHsEjgSTBKgEqwTABNIE1QTaAAAAAAAAAgEAAAAAAAAAdwAAAAAAAAAAAAAAAAAABNw="
-                        }
+                        "_class": "attributedString",
+                        "string": "Lorem ipsum dolor sit amet, consectetur adipiscing elit lorem ipsum dolor. Pellentesque risus mi, tempus quis placerat ut, porta nec nulla. Vestibulum rhoncus ac ex sit amet fringilla. Nullam gravida purus diam, et dictum felis venenatis efficitur. Sit amet, consectetur adipiscing elit ",
+                        "attributes": [
+                            {
+                                "_class": "stringAttribute",
+                                "location": 0,
+                                "length": 287,
+                                "attributes": {
+                                    "MSAttributedStringFontAttribute": {
+                                        "_class": "fontDescriptor",
+                                        "attributes": {
+                                            "name": "FiraSans-Regular",
+                                            "size": 16
+                                        }
+                                    },
+                                    "underlineStyle": 0,
+                                    "kerning": 0,
+                                    "MSAttributedStringColorAttribute": {
+                                        "_class": "color",
+                                        "alpha": 1,
+                                        "blue": 0.2117647059,
+                                        "green": 0.2117647059,
+                                        "red": 0.2117647059
+                                    },
+                                    "strikethroughStyle": 0,
+                                    "paragraphStyle": {
+                                        "_class": "paragraphStyle",
+                                        "alignment": 0,
+                                        "maximumLineHeight": 24,
+                                        "minimumLineHeight": 24,
+                                        "allowsDefaultTighteningForTruncation": 0
+                                    }
+                                }
+                            }
+                        ]
                     },
                     "automaticallyDrawOnUnderlyingPath": false,
                     "dontSynchroniseWithSymbol": false,

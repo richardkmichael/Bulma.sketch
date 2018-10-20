@@ -1,6 +1,7 @@
 {
     "_class": "page",
     "do_objectID": "1A87815E-54E5-4855-B28B-927E11EF0B40",
+    "booleanOperation": 0,
     "exportOptions": {
         "_class": "exportOptions",
         "exportFormats": [],
@@ -16,6 +17,7 @@
         "x": 0,
         "y": 0
     },
+    "isFixedToViewport": false,
     "isFlippedHorizontal": false,
     "isFlippedVertical": false,
     "isLocked": false,
@@ -29,15 +31,17 @@
     "shouldBreakMaskChain": false,
     "style": {
         "_class": "style",
-        "endDecorationType": 0,
+        "endMarkerType": 0,
         "miterLimit": 10,
-        "startDecorationType": 0
+        "startMarkerType": 0,
+        "windingRule": 1
     },
     "hasClickThrough": true,
     "layers": [
         {
             "_class": "text",
             "do_objectID": "7B8766F9-4553-4EE9-81AA-8BB1A4408E4C",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -53,6 +57,7 @@
                 "x": -111,
                 "y": -175
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -67,35 +72,76 @@
             "style": {
                 "_class": "style",
                 "do_objectID": "41B91EFA-D6BE-4FDB-B6BD-C0EF0F32B0B7",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
                 "sharedObjectID": "08DBB614-BA38-42FC-AD3E-AD9DE65318E7",
-                "startDecorationType": 0,
+                "startMarkerType": 0,
                 "textStyle": {
                     "_class": "textStyle",
                     "encodedAttributes": {
                         "MSAttributedStringFontAttribute": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJidYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKkHCA0XGBkaGyJVJG51bGzSCQoLDFYkY2xhc3NfEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4AIgALTDg8JEBMWV05TLmtleXNaTlMub2JqZWN0c6IREoADgASiFBWABYAGgAdfEBNOU0ZvbnRTaXplQXR0cmlidXRlXxATTlNGb250TmFtZUF0dHJpYnV0ZSNAQAAAAAAAAFtSb2JvdG8tQm9sZNIcHR4fWiRjbGFzc25hbWVYJGNsYXNzZXNfEBNOU011dGFibGVEaWN0aW9uYXJ5ox4gIVxOU0RpY3Rpb25hcnlYTlNPYmplY3TSHB0jJF8QEE5TRm9udERlc2NyaXB0b3KiJSFfEBBOU0ZvbnREZXNjcmlwdG9yXxAPTlNLZXllZEFyY2hpdmVy0SgpVHJvb3SAAQAIABEAGgAjAC0AMgA3AEEARwBMAFMAcAByAHQAewCDAI4AkQCTAJUAmACaAJwAngC0AMoA0wDfAOQA7wD4AQ4BEgEfASgBLQFAAUMBVgFoAWsBcAAAAAAAAAIBAAAAAAAAACoAAAAAAAAAAAAAAAAAAAFy"
+                            "_class": "fontDescriptor",
+                            "attributes": {
+                                "name": "Roboto-Bold",
+                                "size": 32
+                            }
                         },
-                        "paragraphStyle": {
-                            "_archive": "YnBsaXN0MDDUAQIDBAUGJCVYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoKUHCBYaIFUkbnVsbNcJCgsMDQ4PEBESEhQVFVYkY2xhc3NaTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSABIAAgAKAAiNAOAAAAAAAACNAQgAAAAAAANIXCRgZWk5TLm9iamVjdHOggAPSGxwdHlokY2xhc3NuYW1lWCRjbGFzc2VzV05TQXJyYXmiHR9YTlNPYmplY3TSGxwhIl8QF05TTXV0YWJsZVBhcmFncmFwaFN0eWxloyEjH18QEE5TUGFyYWdyYXBoU3R5bGVfEA9OU0tleWVkQXJjaGl2ZXLRJidUcm9vdIABAAgAEQAaACMALQAyADcAPQBDAFIAWQBkAHEAfQCSAKQAtgC4ALoAvAC+AMcA0ADVAOAA4QDjAOgA8wD8AQQBBwEQARUBLwEzAUYBWAFbAWAAAAAAAAACAQAAAAAAAAAoAAAAAAAAAAAAAAAAAAABYg=="
-                        },
-                        "kerning": 0,
-                        "MSAttributedStringColorDictionaryAttribute": {
-                            "red": 0.2117647059,
+                        "MSAttributedStringColorAttribute": {
+                            "_class": "color",
                             "alpha": 1,
                             "blue": 0.2117647059,
-                            "green": 0.2117647059
+                            "green": 0.2117647059,
+                            "red": 0.2117647059
+                        },
+                        "kerning": 0,
+                        "paragraphStyle": {
+                            "_class": "paragraphStyle",
+                            "alignment": 0,
+                            "maximumLineHeight": 36,
+                            "minimumLineHeight": 36,
+                            "paragraphSpacing": 24,
+                            "allowsDefaultTighteningForTruncation": 0
                         }
                     },
                     "verticalAlignment": 0
-                }
+                },
+                "windingRule": 1
             },
             "attributedString": {
-                "_class": "MSAttributedString",
-                "archivedAttributedString": {
-                    "_archive": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QIAcIDxAeHyAhIi8yODxASElKS0xQVGBhYmNkZWZnaGprVSRudWxs0wkKCwwNDlhOU1N0cmluZ1YkY2xhc3NcTlNBdHRyaWJ1dGVzgAKAH4ADbxATAEUAbABlAG0AZQBuAHQAcwAgICIAIABQAHIAbwBnAHIAZQBzAHPTERIKExgdV05TLmtleXNaTlMub2JqZWN0c6QUFRYXgASABYAGgAekGRobHIAIgAyAFIAegB1fEBBOU1BhcmFncmFwaFN0eWxlXxAfTVNBdHRyaWJ1dGVkU3RyaW5nRm9udEF0dHJpYnV0ZV8QKk1TQXR0cmlidXRlZFN0cmluZ0NvbG9yRGljdGlvbmFyeUF0dHJpYnV0ZVZOU0tlcm7XCiMkJSYnKCkqKystLi5aTlNUYWJTdG9wc1xOU1RleHRCbG9ja3NbTlNUZXh0TGlzdHNfEBJOU1BhcmFncmFwaFNwYWNpbmdfEA9OU01heExpbmVIZWlnaHRfEA9OU01pbkxpbmVIZWlnaHSAC4AAgAmACSNAOAAAAAAAACNAQgAAAAAAANISCjAxoIAK0jM0NTZaJGNsYXNzbmFtZVgkY2xhc3Nlc1dOU0FycmF5ojU3WE5TT2JqZWN00jM0OTpfEBdOU011dGFibGVQYXJhZ3JhcGhTdHlsZaM5OzdfEBBOU1BhcmFncmFwaFN0eWxl0go9Pj9fEBpOU0ZvbnREZXNjcmlwdG9yQXR0cmlidXRlc4ATgA3TERIKQURHokJDgA6AD6JFRoAQgBGAEl8QE05TRm9udFNpemVBdHRyaWJ1dGVfEBNOU0ZvbnROYW1lQXR0cmlidXRlI0BAAAAAAAAAW1JvYm90by1Cb2xk0jM0TU5fEBNOU011dGFibGVEaWN0aW9uYXJ5o01PN1xOU0RpY3Rpb25hcnnSMzRRUl8QEE5TRm9udERlc2NyaXB0b3KiUzdfEBBOU0ZvbnREZXNjcmlwdG9y0xESClVaHaRWV1hZgBWAFoAXgBikW1xdXoAZgBqAG4AcgB1TcmVkVWFscGhhVGJsdWVVZ3JlZW4jP8sbGxskzrUjP/AAAAAAAAAjP8sbGxskzrUjP8sbGxskzrXSMzRPaaJPNxAA0jM0bG1fEBJOU0F0dHJpYnV0ZWRTdHJpbmeibjdfEBJOU0F0dHJpYnV0ZWRTdHJpbmdfEA9OU0tleWVkQXJjaGl2ZXLRcXJUcm9vdIABAAgAEQAaACMALQAyADcAWgBgAGcAcAB3AIQAhgCIAIoAswC6AMIAzQDSANQA1gDYANoA3wDhAOMA5QDnAOkA/AEeAUsBUgFhAWwBeQGFAZoBrAG+AcABwgHEAcYBzwHYAd0B3gHgAeUB8AH5AgECBAINAhICLAIwAkMCSAJlAmcCaQJwAnMCdQJ3AnoCfAJ+AoAClgKsArUCwQLGAtwC4ALtAvIDBQMIAxsDIgMnAykDKwMtAy8DNAM2AzgDOgM8Az4DQgNIA00DUwNcA2UDbgN3A3wDfwOBA4YDmwOeA7MDxQPIA80AAAAAAAACAQAAAAAAAABzAAAAAAAAAAAAAAAAAAADzw=="
-                }
+                "_class": "attributedString",
+                "string": "Elements \u2022 Progress",
+                "attributes": [
+                    {
+                        "_class": "stringAttribute",
+                        "location": 0,
+                        "length": 19,
+                        "attributes": {
+                            "MSAttributedStringFontAttribute": {
+                                "_class": "fontDescriptor",
+                                "attributes": {
+                                    "name": "Roboto-Bold",
+                                    "size": 32
+                                }
+                            },
+                            "MSAttributedStringColorAttribute": {
+                                "_class": "color",
+                                "alpha": 1,
+                                "blue": 0.2117647059,
+                                "green": 0.2117647059,
+                                "red": 0.2117647059
+                            },
+                            "kerning": 0,
+                            "paragraphStyle": {
+                                "_class": "paragraphStyle",
+                                "alignment": 0,
+                                "maximumLineHeight": 36,
+                                "minimumLineHeight": 36,
+                                "paragraphSpacing": 24,
+                                "allowsDefaultTighteningForTruncation": 0
+                            }
+                        }
+                    }
+                ]
             },
             "automaticallyDrawOnUnderlyingPath": false,
             "dontSynchroniseWithSymbol": false,
@@ -106,6 +152,7 @@
         {
             "_class": "symbolInstance",
             "do_objectID": "42858A83-A108-4F99-AB1B-15C9D9CD6E74",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -121,6 +168,7 @@
                 "x": -111,
                 "y": -123
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -134,20 +182,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 0,
             "symbolID": "71798122-24AA-44BF-98C4-38CE93E877E5",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "symbolInstance",
             "do_objectID": "EFA3DA43-EBBD-45BB-AC5A-C113EFABA86D",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -163,6 +212,7 @@
                 "x": -111,
                 "y": -47
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -176,20 +226,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 0,
             "symbolID": "89D5D089-B2DB-44F1-957E-FFF1D2845CE5",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "symbolInstance",
             "do_objectID": "4C644013-73F1-4AEE-A5FB-E1FFF9CF02DC",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -205,6 +256,7 @@
                 "x": -111,
                 "y": -85
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -218,20 +270,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 0,
             "symbolID": "08A63628-30C4-422A-9249-78E941BEC017",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "group",
             "do_objectID": "CBD77432-F5E1-42A2-A62F-CBC73FCBBDDE",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -247,6 +300,7 @@
                 "x": -111,
                 "y": 181
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -260,15 +314,17 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": false,
             "layers": [
                 {
                     "_class": "shapeGroup",
                     "do_objectID": "E013E79F-D82F-4362-97CD-B848F76A8F66",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -284,6 +340,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -313,7 +370,7 @@
                                 "thickness": 1
                             }
                         ],
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "fills": [
                             {
                                 "_class": "fill",
@@ -333,13 +390,15 @@
                             }
                         ],
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "rectangle",
                             "do_objectID": "4DDB812A-6D6B-4266-99A4-CBFD2B984676",
+                            "booleanOperation": -1,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -355,6 +414,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -366,7 +426,6 @@
                             "resizingType": 0,
                             "rotation": 0,
                             "shouldBreakMaskChain": false,
-                            "booleanOperation": -1,
                             "edited": false,
                             "isClosed": true,
                             "pointRadiusBehaviour": 1,
@@ -412,53 +471,6 @@
                                     "point": "{0, 1}"
                                 }
                             ],
-                            "path": {
-                                "_class": "path",
-                                "isClosed": true,
-                                "pointRadiusBehaviour": 1,
-                                "points": [
-                                    {
-                                        "_class": "curvePoint",
-                                        "cornerRadius": 64,
-                                        "curveFrom": "{0, 0}",
-                                        "curveMode": 1,
-                                        "curveTo": "{0, 0}",
-                                        "hasCurveFrom": false,
-                                        "hasCurveTo": false,
-                                        "point": "{0, 0}"
-                                    },
-                                    {
-                                        "_class": "curvePoint",
-                                        "cornerRadius": 64,
-                                        "curveFrom": "{1, 0}",
-                                        "curveMode": 1,
-                                        "curveTo": "{1, 0}",
-                                        "hasCurveFrom": false,
-                                        "hasCurveTo": false,
-                                        "point": "{1, 0}"
-                                    },
-                                    {
-                                        "_class": "curvePoint",
-                                        "cornerRadius": 64,
-                                        "curveFrom": "{1, 1}",
-                                        "curveMode": 1,
-                                        "curveTo": "{1, 1}",
-                                        "hasCurveFrom": false,
-                                        "hasCurveTo": false,
-                                        "point": "{1, 1}"
-                                    },
-                                    {
-                                        "_class": "curvePoint",
-                                        "cornerRadius": 64,
-                                        "curveFrom": "{0, 1}",
-                                        "curveMode": 1,
-                                        "curveTo": "{0, 1}",
-                                        "hasCurveFrom": false,
-                                        "hasCurveTo": false,
-                                        "point": "{0, 1}"
-                                    }
-                                ]
-                            },
                             "fixedRadius": 64,
                             "hasConvertedToNewRoundCorners": true
                         }
@@ -470,6 +482,7 @@
                 {
                     "_class": "symbolInstance",
                     "do_objectID": "A3D8D99C-9A6A-447E-9FB0-6C1EEC286D5E",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -485,6 +498,7 @@
                         "x": 0,
                         "y": -8
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -498,20 +512,21 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "horizontalSpacing": 0,
                     "overrideValues": [],
                     "scale": 0,
                     "symbolID": "64B6CA11-8AF7-446F-ABC4-ABE5C1FA6D68",
-                    "verticalSpacing": 0,
-                    "overrides": {}
+                    "verticalSpacing": 0
                 },
                 {
                     "_class": "symbolInstance",
                     "do_objectID": "F9426E01-1FC8-49BA-B7CA-F5ED0D98FC1F",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -527,6 +542,7 @@
                         "x": 0,
                         "y": -8
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -540,22 +556,23 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "horizontalSpacing": 0,
                     "overrideValues": [],
                     "scale": 1,
                     "symbolID": "2CBDA14A-C24B-4D8A-8697-C20777BE6088",
-                    "verticalSpacing": 0,
-                    "overrides": {}
+                    "verticalSpacing": 0
                 }
             ]
         },
         {
             "_class": "symbolInstance",
             "do_objectID": "D5EE9367-BEFC-4BD9-8323-DC82E6BAEAC1",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -571,6 +588,7 @@
                 "x": -111,
                 "y": -9
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -584,20 +602,21 @@
             "shouldBreakMaskChain": false,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "horizontalSpacing": 0,
             "overrideValues": [],
             "scale": 0,
             "symbolID": "71421F51-CC26-401C-AAB8-07EC1F9D5165",
-            "verticalSpacing": 0,
-            "overrides": {}
+            "verticalSpacing": 0
         },
         {
             "_class": "symbolMaster",
             "do_objectID": "9B0DC7F2-0710-424D-83B1-334A48CB69A3",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -613,6 +632,7 @@
                 "x": 489,
                 "y": -175
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -626,15 +646,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "7F81C66B-5A4F-4871-8986-2C5EB3D67305",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -650,6 +672,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -663,15 +686,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "2C86C3E8-AC8E-4629-A761-10D941F9F55D",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -687,6 +712,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -716,7 +742,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -736,13 +762,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "946A6BF4-CA0E-4131-B0E1-99F6135CFFBF",
+                                    "booleanOperation": -1,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -758,6 +786,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -769,7 +798,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": -1,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -815,53 +843,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 64,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -873,6 +854,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "1B3433E0-9F6B-4572-8A38-5B84F330ED0D",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -888,6 +870,7 @@
                                 "x": 0,
                                 "y": -7
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -901,20 +884,21 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "64B6CA11-8AF7-446F-ABC4-ABE5C1FA6D68",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         },
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "78D0108F-F0CE-49FE-B53E-140607560DD9",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -930,6 +914,7 @@
                                 "x": 0,
                                 "y": -7
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -943,16 +928,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "BFF70BBC-5497-47AB-97EB-C137AB809681",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -986,6 +971,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "D5A69371-9994-497D-9D3B-4DCB84FB70CC",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -1001,6 +987,7 @@
                 "x": 1089,
                 "y": -175
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1014,15 +1001,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "A16D63BC-C7C3-48D4-A83F-D8863D016FF7",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -1038,6 +1027,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -1051,15 +1041,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "DDB2779E-3F9D-47D3-99FD-4B4AFE7144A6",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1075,6 +1067,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1104,7 +1097,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -1124,13 +1117,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "4291DE92-784E-4AED-BB4D-10147BA8DF58",
+                                    "booleanOperation": -1,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1146,6 +1141,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1157,7 +1153,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": -1,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1203,53 +1198,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 64,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -1261,6 +1209,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "16A627F3-C82D-4211-A0E5-D23EEA447158",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1276,6 +1225,7 @@
                                 "x": 0,
                                 "y": -8
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1289,20 +1239,21 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "64B6CA11-8AF7-446F-ABC4-ABE5C1FA6D68",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         },
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "3BF81110-F764-44D9-A160-E4FFB2C6A573",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1318,6 +1269,7 @@
                                 "x": 0,
                                 "y": -8
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1331,16 +1283,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "BFF70BBC-5497-47AB-97EB-C137AB809681",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -1374,6 +1326,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "44E84846-9BC4-4099-AE80-2C32D46B11C1",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -1389,6 +1342,7 @@
                 "x": 1689,
                 "y": -175
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1402,15 +1356,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "833E0D6A-4F00-47D0-B731-19727914C826",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -1426,6 +1382,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -1439,15 +1396,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "9092850E-1D24-4C3A-A68C-E86DF36D86FC",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1463,6 +1422,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1492,7 +1452,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -1512,13 +1472,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "9EC923E2-1367-4204-9EF5-E3C41DF61283",
+                                    "booleanOperation": -1,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1534,6 +1496,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1545,7 +1508,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": -1,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1591,53 +1553,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 64,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -1649,6 +1564,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "728EA8F1-1B9B-4B66-B383-FE6A01047974",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1664,6 +1580,7 @@
                                 "x": 0,
                                 "y": -5
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1677,20 +1594,21 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "64B6CA11-8AF7-446F-ABC4-ABE5C1FA6D68",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         },
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "FB797541-FD9D-425E-860E-3F672A4C0DAA",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1706,6 +1624,7 @@
                                 "x": 0,
                                 "y": -5
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1719,16 +1638,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "BFF70BBC-5497-47AB-97EB-C137AB809681",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -1762,6 +1681,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "54E05347-B04B-4008-8225-B8308BB27F4C",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -1777,6 +1697,7 @@
                 "x": 2289,
                 "y": -175
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1790,15 +1711,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "F239B7DB-BD51-4A0C-93C1-AF9D3AE36A61",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -1814,6 +1737,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -1827,15 +1751,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "0957C650-13B1-4E40-BF4F-0417621D7526",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1851,6 +1777,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1880,7 +1807,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -1900,13 +1827,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "690E9399-ADF0-40FA-8F3C-D0ECF3867F3C",
+                                    "booleanOperation": -1,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1922,6 +1851,7 @@
                                         "x": 0,
                                         "y": 0
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1933,7 +1863,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": -1,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1979,53 +1908,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 64,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 64,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -2037,6 +1919,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "11B5F3F8-F5EF-428E-A4F4-AD13F88EDD50",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -2052,6 +1935,7 @@
                                 "x": 0,
                                 "y": -3
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -2065,20 +1949,21 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "64B6CA11-8AF7-446F-ABC4-ABE5C1FA6D68",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         },
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "2F391EB1-3570-4012-92EF-845CEBCD49AD",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -2094,6 +1979,7 @@
                                 "x": 0,
                                 "y": -3
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -2107,16 +1993,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "BFF70BBC-5497-47AB-97EB-C137AB809681",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }

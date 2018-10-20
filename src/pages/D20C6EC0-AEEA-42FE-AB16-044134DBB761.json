@@ -1,6 +1,7 @@
 {
     "_class": "page",
     "do_objectID": "D20C6EC0-AEEA-42FE-AB16-044134DBB761",
+    "booleanOperation": 0,
     "exportOptions": {
         "_class": "exportOptions",
         "exportFormats": [],
@@ -16,6 +17,7 @@
         "x": 0,
         "y": 0
     },
+    "isFixedToViewport": false,
     "isFlippedHorizontal": false,
     "isFlippedVertical": false,
     "isLocked": false,
@@ -29,15 +31,17 @@
     "shouldBreakMaskChain": false,
     "style": {
         "_class": "style",
-        "endDecorationType": 0,
+        "endMarkerType": 0,
         "miterLimit": 10,
-        "startDecorationType": 0
+        "startMarkerType": 0,
+        "windingRule": 1
     },
     "hasClickThrough": true,
     "layers": [
         {
             "_class": "symbolMaster",
             "do_objectID": "C2A677C5-8A19-4D91-8088-B4C147F8C4E5",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -53,6 +57,7 @@
                 "x": 100,
                 "y": 0
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -66,15 +71,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "F6ED2DA2-E42F-4D3C-B01C-BC679EBB66EF",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -90,6 +97,7 @@
                         "x": 0,
                         "y": 0
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -103,15 +111,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "3B920D11-CF47-4CEF-AE89-2DE2B42CCF3A",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -127,6 +137,7 @@
                                 "x": 2,
                                 "y": 2
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -156,7 +167,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -176,13 +187,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "31DEB9D1-5447-4973-8947-2CA6BDD9D4C5",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -198,6 +211,7 @@
                                         "x": 0,
                                         "y": 5
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -209,7 +223,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -255,59 +268,13 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 },
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "5A035624-9AC0-4997-9F69-E59ED4A8700A",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -323,6 +290,7 @@
                                         "x": 2.5,
                                         "y": 2.5
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -334,7 +302,6 @@
                                     "resizingType": 0,
                                     "rotation": -90,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -380,53 +347,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -438,6 +358,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "D8C3AADA-F0E5-4715-8EF7-7F89D42E4E89",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -453,6 +374,7 @@
                                 "x": 0,
                                 "y": 0
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -466,16 +388,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -509,6 +431,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "0DF50DDB-72B3-419C-9E2F-24417BEDA2C6",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -524,6 +447,7 @@
                 "x": 120,
                 "y": 0
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -537,15 +461,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "65267DC2-31A2-471D-86FA-07D78CFF8479",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -561,6 +487,7 @@
                         "x": 0,
                         "y": -2
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -574,15 +501,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "8A2B5323-5B99-4779-A274-24459E0DA241",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -598,6 +527,7 @@
                                 "x": 2,
                                 "y": 1.656854249492381
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -627,7 +557,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -647,13 +577,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "3749FD56-A173-4454-A8E9-5FF3A4F0B3F2",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -669,6 +601,7 @@
                                         "x": -1.77635683940025e-15,
                                         "y": 7
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -680,7 +613,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -726,59 +658,13 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 },
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "D59D6B03-2C3F-4845-8019-4A905BE458FE",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -794,6 +680,7 @@
                                         "x": 3.499999999999998,
                                         "y": 3.5
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -805,7 +692,6 @@
                                     "resizingType": 0,
                                     "rotation": -90,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -851,53 +737,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -909,6 +748,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "E9CA5445-9EB3-4EB5-95BE-84409EA84E1C",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -924,6 +764,7 @@
                                 "x": 0,
                                 "y": 2
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -937,16 +778,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -980,6 +821,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "B7BFA745-EC4B-40CA-A5AD-B6E72A6A0050",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -995,6 +837,7 @@
                 "x": 140,
                 "y": 0
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1008,15 +851,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "090608F0-7D98-4F90-840B-0F5F0D1EF81A",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -1032,6 +877,7 @@
                         "x": -1,
                         "y": -5
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -1045,15 +891,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "EF8C3E96-49BB-40A4-90D1-8448823C0782",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1069,6 +917,7 @@
                                 "x": 3,
                                 "y": 2.321067811865476
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1098,7 +947,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -1118,13 +967,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "1216F20A-9205-4FE5-9E05-6E922CCED9C9",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1140,6 +991,7 @@
                                         "x": 0,
                                         "y": 9
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1151,7 +1003,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1197,59 +1048,13 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 },
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "8BF774E2-E0F4-41A5-ABFE-97D8E5AEFE95",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1265,6 +1070,7 @@
                                         "x": 4.5,
                                         "y": 4.5
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1276,7 +1082,6 @@
                                     "resizingType": 0,
                                     "rotation": -90,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1322,53 +1127,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -1380,6 +1138,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "0F06C90B-23B0-4B25-BF2B-666DB2640A5D",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1395,6 +1154,7 @@
                                 "x": 1,
                                 "y": 5
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1408,16 +1168,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }
@@ -1451,6 +1211,7 @@
         {
             "_class": "symbolMaster",
             "do_objectID": "560DD7AA-6CC2-4EFB-884A-29C0B4E34E0C",
+            "booleanOperation": 0,
             "exportOptions": {
                 "_class": "exportOptions",
                 "exportFormats": [],
@@ -1466,6 +1227,7 @@
                 "x": 160,
                 "y": 0
             },
+            "isFixedToViewport": false,
             "isFlippedHorizontal": false,
             "isFlippedVertical": false,
             "isLocked": false,
@@ -1479,15 +1241,17 @@
             "shouldBreakMaskChain": true,
             "style": {
                 "_class": "style",
-                "endDecorationType": 0,
+                "endMarkerType": 0,
                 "miterLimit": 10,
-                "startDecorationType": 0
+                "startMarkerType": 0,
+                "windingRule": 1
             },
             "hasClickThrough": true,
             "layers": [
                 {
                     "_class": "group",
                     "do_objectID": "89FFF6AC-5468-4483-9154-5A0F38813BC1",
+                    "booleanOperation": 0,
                     "exportOptions": {
                         "_class": "exportOptions",
                         "exportFormats": [],
@@ -1503,6 +1267,7 @@
                         "x": 0,
                         "y": -8
                     },
+                    "isFixedToViewport": false,
                     "isFlippedHorizontal": false,
                     "isFlippedVertical": false,
                     "isLocked": false,
@@ -1516,15 +1281,17 @@
                     "shouldBreakMaskChain": false,
                     "style": {
                         "_class": "style",
-                        "endDecorationType": 0,
+                        "endMarkerType": 0,
                         "miterLimit": 10,
-                        "startDecorationType": 0
+                        "startMarkerType": 0,
+                        "windingRule": 1
                     },
                     "hasClickThrough": false,
                     "layers": [
                         {
                             "_class": "shapeGroup",
                             "do_objectID": "25B95E7B-79D9-4F17-849E-442B5C5C0052",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1540,6 +1307,7 @@
                                 "x": 3,
                                 "y": 2.82528152682646
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1569,7 +1337,7 @@
                                         "thickness": 1
                                     }
                                 ],
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "fills": [
                                     {
                                         "_class": "fill",
@@ -1589,13 +1357,15 @@
                                     }
                                 ],
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "hasClickThrough": false,
                             "layers": [
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "79334630-597B-4536-B40D-4174F18E0E01",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1611,6 +1381,7 @@
                                         "x": 5.5,
                                         "y": 5.5
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1622,7 +1393,6 @@
                                     "resizingType": 0,
                                     "rotation": -90,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1668,59 +1438,13 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 },
                                 {
                                     "_class": "rectangle",
                                     "do_objectID": "A3D1B3D6-CA4C-46B2-BE0A-49CC9C9CCF02",
+                                    "booleanOperation": 0,
                                     "exportOptions": {
                                         "_class": "exportOptions",
                                         "exportFormats": [],
@@ -1736,6 +1460,7 @@
                                         "x": 0,
                                         "y": 11
                                     },
+                                    "isFixedToViewport": false,
                                     "isFlippedHorizontal": false,
                                     "isFlippedVertical": false,
                                     "isLocked": false,
@@ -1747,7 +1472,6 @@
                                     "resizingType": 0,
                                     "rotation": 0,
                                     "shouldBreakMaskChain": false,
-                                    "booleanOperation": 0,
                                     "edited": false,
                                     "isClosed": true,
                                     "pointRadiusBehaviour": 1,
@@ -1793,53 +1517,6 @@
                                             "point": "{0, 1}"
                                         }
                                     ],
-                                    "path": {
-                                        "_class": "path",
-                                        "isClosed": true,
-                                        "pointRadiusBehaviour": 1,
-                                        "points": [
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 0}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 0}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 0}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{1, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{1, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{1, 1}"
-                                            },
-                                            {
-                                                "_class": "curvePoint",
-                                                "cornerRadius": 0,
-                                                "curveFrom": "{0, 1}",
-                                                "curveMode": 1,
-                                                "curveTo": "{0, 1}",
-                                                "hasCurveFrom": false,
-                                                "hasCurveTo": false,
-                                                "point": "{0, 1}"
-                                            }
-                                        ]
-                                    },
                                     "fixedRadius": 0,
                                     "hasConvertedToNewRoundCorners": true
                                 }
@@ -1851,6 +1528,7 @@
                         {
                             "_class": "symbolInstance",
                             "do_objectID": "7F5210D9-82D8-4396-BDF8-1951E1D8358C",
+                            "booleanOperation": 0,
                             "exportOptions": {
                                 "_class": "exportOptions",
                                 "exportFormats": [],
@@ -1866,6 +1544,7 @@
                                 "x": 0,
                                 "y": 8
                             },
+                            "isFixedToViewport": false,
                             "isFlippedHorizontal": false,
                             "isFlippedVertical": false,
                             "isLocked": false,
@@ -1879,16 +1558,16 @@
                             "shouldBreakMaskChain": false,
                             "style": {
                                 "_class": "style",
-                                "endDecorationType": 0,
+                                "endMarkerType": 0,
                                 "miterLimit": 10,
-                                "startDecorationType": 0
+                                "startMarkerType": 0,
+                                "windingRule": 1
                             },
                             "horizontalSpacing": 0,
                             "overrideValues": [],
                             "scale": 0,
                             "symbolID": "E1B3BF27-27BE-4399-A16D-933AF0046853",
-                            "verticalSpacing": 0,
-                            "overrides": {}
+                            "verticalSpacing": 0
                         }
                     ]
                 }

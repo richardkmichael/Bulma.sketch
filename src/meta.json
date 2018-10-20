@@ -1,5 +1,5 @@
 {
-    "commit": "9dcf53ec96d1408dbda79e7865e04e3284438d9d",
+    "commit": "e5cf8fcadc29a655fd4ba2db99d732034a0d0445",
     "pagesAndArtboards": {
         "2A3FB4F3-8E4C-4DDF-AB2B-EEB534A09581": {
             "name": "Colors",
@@ -1416,7 +1416,7 @@
             }
         }
     },
-    "version": 101,
+    "version": 105,
     "fonts": [
         "FontAwesome",
         "FiraSans-Regular",
@@ -1427,22 +1427,22 @@
         "LucidaGrande",
         "FiraSans-Bold"
     ],
-    "compatibilityVersion": 93,
+    "compatibilityVersion": 99,
     "app": "com.bohemiancoding.sketch3",
     "autosaved": 0,
     "variant": "NONAPPSTORE",
     "created": {
-        "commit": "9dcf53ec96d1408dbda79e7865e04e3284438d9d",
-        "appVersion": "49.1",
-        "build": 51147,
+        "commit": "e5cf8fcadc29a655fd4ba2db99d732034a0d0445",
+        "appVersion": "51.1",
+        "build": 57501,
         "app": "com.bohemiancoding.sketch3",
-        "compatibilityVersion": 93,
-        "version": 101,
+        "compatibilityVersion": 99,
+        "version": 105,
         "variant": "NONAPPSTORE"
     },
     "saveHistory": [
-        "NONAPPSTORE.51147"
+        "NONAPPSTORE.57501"
     ],
-    "appVersion": "49.1",
-    "build": 51147
+    "appVersion": "51.1",
+    "build": 57501
 }
